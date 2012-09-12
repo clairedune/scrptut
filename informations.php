@@ -115,7 +115,7 @@ body {
 				
 			<div class="row">
 			<div class="span6">
-			<p>Les projets tuteurés sont des réalisations collectives qui couvrent une grande partie de l'anné. </p>
+			<p>Les projets tuteurés sont des réalisations collectives qui couvrent une grande partie de l'année. </p>
 			<div class="alert alert-info"> 
 				L'objectif est d'élaborer un <b>produit</b> ou un <b>service multimédia</b> 
 				depuis les phases de conception initiale jusqu'à la réalisation d'un prototype le plus abouti possible. 

@@ -11,7 +11,7 @@
 				Etre tuteur d'une agence, <b>engage à assumer trois fonctions : suivre, relayer et évaluer.</b>
 			<dl> 
 				<dt>Suivi (1 fois par mois)</dt>
-					<dd>Le tuteur assure le <b>suivi</b> (vérification des comptes rendus posté sur le gware) 
+					<dd>Le tuteur assure le <b>suivi</b> (vérification des comptes rendus postés sur le gware) 
 					et le <b>soutien</b> de l'agence (conseils). 
 					Il ne doit en aucun cas faire le travail à la place des étudiants mais 
 					peut leur fournir une assistance technique si nécessaire.
@@ -36,7 +36,7 @@
 						
 						</div> <!--fin alert utilisation des ressources-->
 					</dd>
-				<dt>Relai du pilote</dt>
+				<dt>Relais du pilote</dt>
 					<dd>Le tuteur assure un suivi de proximité de ses agences. 
 						Il sert de relais au pilote dans le suivi au fil de 
 						l'année de la réalisation du projet. 
