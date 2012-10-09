@@ -340,7 +340,7 @@ body {
 								
 								
 								<tr>
-									<td> 14/06 </td>
+									<td> 10-11/06 </td>
 									<td> L4<br>J2 </td>
 									<td> 2<br>5<br></td>
 									<td> support des réalisations <br>soutenance</td>
