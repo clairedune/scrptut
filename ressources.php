@@ -184,6 +184,11 @@ body {
 				<td>Enseignant</td>
 				<td>Cadrage, Lumière, Scenario</td>
 			</tr>
+			<tr>
+				<td>Samia Boungab <br> samia.boungab(at)hotmail.fr</td>
+				<td>Etudiant</td>
+				<td>Decoupage, Montage, Adobe Premiere</td>
+			</tr>
 		</tbody>
 	</table>
 
@@ -216,8 +221,14 @@ body {
 				<td>Enseignant</td>
 				<td>Graphisme, mise en page, suite Adobe</td>
 			</tr>
+			<tr>
+				<td>Marie Godin <br>marie.godin63(at)gmail.com</td>
+				<td>Etudiant</td>
+				<td>Illustrator, mise en page</td>
+			</tr>
 		</tbody>
 	</table>
+
 
 		
 	</div>
