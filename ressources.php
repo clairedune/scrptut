@@ -118,7 +118,11 @@ body {
 				<td>Enseignant</td>
 				<td>Js</td>
 			</tr>
-
+			<tr>
+				<td>Dorian C.<br>dorian.camilleri (at) yahoo.fr</td>
+				<td>Etudiant</td>
+				<td>Php, Js, HTML/CSS, BDD, prog. mobile</td>
+			</tr>	
 		</tbody>
 	</table>
 </div>
