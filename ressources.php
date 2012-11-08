@@ -119,7 +119,12 @@ body {
 				<td>Js</td>
 			</tr>
 			<tr>
-				<td>Dorian C.<br>dorian.camilleri (at) yahoo.fr</td>
+				<td>Dorian Camilleri<br>dorian.camilleri (at) yahoo.fr</td>
+				<td>SRC2</td>
+				<td>Php, Js, HTML/CSS, BDD, prog. mobile</td>
+			</tr>	
+			<tr>
+				<td>Benjamin Belmonte</td>
 				<td>SRC2</td>
 				<td>Php, Js, HTML/CSS, BDD, prog. mobile</td>
 			</tr>	
