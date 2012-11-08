@@ -126,7 +126,7 @@ body {
 			<tr>
 				<td>Benjamin Belmonte</td>
 				<td>SRC2</td>
-				<td>Php, Js, HTML/CSS, BDD, prog. mobile</td>
+				<td>Php, Js, HTML/CSS</td>
 			</tr>	
 		</tbody>
 	</table>
