@@ -120,7 +120,7 @@ body {
 			</tr>
 			<tr>
 				<td>Dorian C.<br>dorian.camilleri (at) yahoo.fr</td>
-				<td>Etudiant</td>
+				<td>SRC2</td>
 				<td>Php, Js, HTML/CSS, BDD, prog. mobile</td>
 			</tr>	
 		</tbody>
@@ -155,6 +155,12 @@ body {
 				<td>Enseignant</td>
 				<td>CDCF, CDCT</td>
 			</tr>
+			<tr>
+				<td>Cynthia Bosano <br> cinthia.bosano(at)gmail.com</td>
+				<td>PDTA</td>
+				<td>Gestion de projet</td>
+			</tr>
+
 		</tbody>
 	</table>
 		
@@ -186,8 +192,13 @@ body {
 			</tr>
 			<tr>
 				<td>Samia Boungab <br> samia.boungab(at)hotmail.fr</td>
-				<td>Etudiant</td>
-				<td>Decoupage, Montage, Adobe Premiere</td>
+				<td>SRC2</td>
+				<td>Decoupage, Montage,Premiere Pro</td>
+			</tr>
+			<tr>
+				<td>Cynthia Bosani <br>  cinthia.bosano(at)gmail.com</td>
+				<td>PDTA</td>
+				<td>Tournage, montage, premiere</td>
 			</tr>
 		</tbody>
 	</table>
@@ -223,7 +234,7 @@ body {
 			</tr>
 			<tr>
 				<td>Marie Godin <br>marie.godin63(at)gmail.com</td>
-				<td>Etudiant</td>
+				<td>SRC2</td>
 				<td>Illustrator, mise en page</td>
 			</tr>
 		</tbody>
