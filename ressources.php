@@ -119,17 +119,17 @@ body {
 				<td>Js</td>
 			</tr>
 			<tr>
-				<td><a href="dorian.camilleri@yahoo.fr">Dorian Camilleri<a></td>
+				<td><a href="mailto:dorian.camilleri@yahoo.fr">Dorian Camilleri<a></td>
 				<td>SRC2</td>
 				<td>Php, Js, HTML/CSS, BDD, prog. mobile</td>
 			</tr>	
 			<tr>
-				<td><a href ="belmonte.ben@gmail.com">Benjamin Belmonte</a></td>
+				<td><a href ="mailto:belmonte.ben@gmail.com">Benjamin Belmonte</a></td>
 				<td>SRC2</td>
 				<td>HTML/CSS, Php, BDD</td>
 			</tr>	
 			<tr>
-				<td><a href="quentin.usiko@gmail.com">Quentin Ondet</a> </td>
+				<td><a href="mailto:quentin.usiko@gmail.com">Quentin Ondet</a> </td>
 				<td>SRC2</td>
 				<td>Php, Js, HTML/CSS, BDD</td>
 			</tr>
@@ -157,17 +157,17 @@ body {
 		</thead>
 		<tbody>
 			<tr>
-				<td><a href="alexandre.francois@orange.com">François</a> (FRA)</td>
+				<td><a href="mailto:afrancoi@univ-tln.fr">François</a> (FRA)</td>
 				<td>Enseignant</td>
 				<td>Cahier de tests</td>
 			</tr>
 			<tr>
-				<td><a href="y.bertacchini@gmail.com">Bertacchini</a> (YB)</td>
+				<td><a href="mailto:y.bertacchini@gmail.com">Bertacchini</a> (YB)</td>
 				<td>Enseignant</td>
 				<td>CDCF, CDCT</td>
 			</tr>
 			<tr>
-				<td><a href="cinthia.bosano@gmail.com">Cynthia Bosano</a></td>
+				<td><a href="mailto:cinthia.bosano@gmail.com">Cynthia Bosano</a></td>
 				<td>PDTA</td>
 				<td>Gestion de projet</td>
 			</tr>
@@ -197,17 +197,17 @@ body {
 		</thead>
 		<tbody>
 			<tr>
-				<td><a href="mbaldacchino@noos.fr">Baldacchino</a> (BAL)</td>
+				<td><a href="mailto:mbaldacchino@noos.fr">Baldacchino</a> (BAL)</td>
 				<td>Enseignant</td>
 				<td>Cadrage, Lumière, Scenario</td>
 			</tr>
 			<tr>
-				<td><a href="samia.boungab@hotmail.fr">Samia Boungab</a> </td>
+				<td><a href="mailto:samia.boungab@hotmail.fr">Samia Boungab</a> </td>
 				<td>SRC2</td>
 				<td>Decoupage, Montage,Premiere Pro</td>
 			</tr>
 			<tr>
-				<td><a href="cinthia.bosano@gmail.com">Cynthia Bosani</a></td>
+				<td><a href="mailto:cinthia.bosano@gmail.com">Cynthia Bosani</a></td>
 				<td>PDTA</td>
 				<td>Tournage, Montage, Premiere Pro</td>
 			</tr>
@@ -239,12 +239,12 @@ body {
 		</thead>
 		<tbody>
 			<tr>
-				<td><a href="betourne.xavier@wanadoo.fr">Betournée</a> (XBE)</td>
+				<td><a href="mailto:betourne.xavier@wanadoo.fr">Betournée</a> (XBE)</td>
 				<td>Enseignant</td>
 				<td>Graphisme, mise en page, suite Adobe</td>
 			</tr>
 			<tr>
-				<td><a href="marie.godin63@gmail.com">Marie Godin</a></td>
+				<td><a href="mailto:marie.godin63@gmail.com">Marie Godin</a></td>
 				<td>SRC2</td>
 				<td>Illustrator, mise en page</td>
 			</tr>
@@ -277,12 +277,12 @@ body {
 		</thead>
 		<tbody>
 			<tr>
-				<td><a href="jmuller@univ-tln.fr">Müller</a> (JM)</td>
+				<td><a href="mailto:jmuller@univ-tln.fr">Müller</a> (JM)</td>
 				<td>Enseignant</td>
 				<td>Marketing</td>
 			</tr>
 			<tr>
-				<td><a href="maamar.khaled@free.fr">Khaled</a> (MKH)</td>
+				<td><a href="mailto:maamar.khaled@free.fr">Khaled</a> (MKH)</td>
 				<td>Enseignant</td>
 				<td>Marketing</td>
 			</tr>
@@ -311,17 +311,17 @@ body {
 		</thead>
 		<tbody>
 			<tr>
-				<td><a href="corinne.benharoun@wanadoo.fr">Benharoun</a> (HAR)</td>
+				<td><a href="mailto:corinne.benharoun@wanadoo.fr">Benharoun</a> (HAR)</td>
 				<td>Enseignant</td>
 				<td>Préparation à la soutenance</td>
 			</tr>
 			<tr>
-				<td><a href="y.bertacchini@gmail.com">Bertacchini</a> (YB)</td>
+				<td><a href="mailto:y.bertacchini@gmail.com">Bertacchini</a> (YB)</td>
 				<td>Enseignant</td>
 				<td>Communication, ppt</td>
 			</tr>
 			<tr>
-				<td><a href="metge@univ-tln.fr">Metge</a> (MME)</td>
+				<td><a href="mailto:metge@univ-tln.fr">Metge</a> (MME)</td>
 				<td>Enseignant</td>
 				<td>Préparation à la soutenance (Toulon)</td>
 			</tr>
