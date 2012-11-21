@@ -71,8 +71,39 @@ body {
 	<hr class="soften">
 	
 	
-	<div class="span9 offset1" style="text-align:justify;">
+	<div class="span6" style="text-align:justify;">
+	<h2>Tuteur</h2>
 	<?php include('textTuteur.php');?>
+	</div>
+
+	<div class="span3 offset1" style="text-align:justify;">
+	<h2>Correcteur</h2>
+	
+	<p>Chaque tuteur d'un groupe a aussi un rôle de correcteur pour une autre agences que la sienne. 
+	Vous trouverez ici les grilles de notation des différents rendus qu'il sera amené à corriger.</p>
+	
+	<h3>SRC1</h3>
+	<div class="well">
+	
+	<a class="btn btn-small" href="files/SRC1GrilleCahierFonctionnalités.doc" style="width:95%;">
+		télécharger la grille du CDCF <br> (L2)</a><br>
+
+	
+	</div>
+	
+	
+	<h3>SRC2</h3>
+	
+	<div class="well">
+	
+	<a class="btn btn-small" href="files/SRC2GrilleCDCF.doc" style="width:95%;">
+		télécharger la grille du CDCF <br> (L2)</a><br><br><br>
+		
+	<a class="btn btn-small" href="files/SRC2GrilleSynthèse.doc" style="width:95%;">
+		télécharger la grille du dossier de synthèse (L4) </a><br>
+	
+	</div>
+	
 	</div>
 
 </div> <!-- /container -->
