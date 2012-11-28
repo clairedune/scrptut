@@ -78,5 +78,13 @@
 					<a class="btn btn-primary btn-small" href="files/SRC1GrilleCahierFonctionnalités.doc">télécharger la grille de notation</a>
 					<br>
 	      					
-      			
+      			<H3>4. Des exemples de CDC</H3>
+					<p>Pour vous guider un peu, vous trouverez ici quelques exemples de CDCF de 2011-2012. Soyez critique, tout n'est pas forcément bon
+					à prendre mais cela vous montre ce que les étudiants des années précédentes avaient rendus. Je vous conseille de télécharger tous les fichiers qui
+					sont différents les uns des autres afin de pouvoir créer votre propre cahier des charges.</p>	
+					<a class="btn btn-primary btn-small" href="files/MozaikCDCF.pdf">projet Mozaik 2011-2012</a>
+					<a class="btn btn-primary btn-small" href="files/ObviousCDCF.pdf">projet Obvious 2011-2012</a>		
+      				<a class="btn btn-primary btn-small" href="files/ClickawayCDCF.pdf">projet Clickaway 2011-2012</a>
+					<a class="btn btn-primary btn-small" href="files/TethysCDCF.pdf">projet Thethys 2011-2012</a>
+
       					
