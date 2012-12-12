@@ -133,6 +133,11 @@ body {
 				<td>SRC2</td>
 				<td>Php, Js, HTML/CSS, BDD</td>
 			</tr>
+			<tr>
+				<td><a href=""mailto:jimlaurie@hotmail.fr">Jim Laurie</a> </td>
+				<td>SRC2</td>
+				<td>Php, HTML/CSS, BDD</td>
+			</tr>
 			
 		</tbody>
 	</table>
@@ -169,6 +174,11 @@ body {
 			<tr>
 				<td><a href="mailto:cinthia.bosano@gmail.com">Cynthia Bosano</a></td>
 				<td>PDTA</td>
+				<td>Gestion de projet</td>
+			</tr>
+			<tr>
+				<td><a href="mailto:jimlaurie@hotmail.fr">Jim Laurie</a></td>
+				<td>SRC2</td>
 				<td>Gestion de projet</td>
 			</tr>
 
