@@ -107,12 +107,12 @@
 						<li><b>8h00-8h30 </b>: Blyms - évènementiel avec un enfant, un quartier, la ville</li></li>
 						<li><b>8h30-9h00  </b>: Safeline - promotion de la slack line</li>
 						<li><b>9h00-9h30  </b>: Wild-Eye - promotion du tir sportif</li>
-						<li><b>9h30-10h00  </b>: Etudes Handi - étudier avec un handicap
+						<li><b>9h30-10h00  </b>: Blops - Film d'animation 3D
 						<li><b>10h00-10h30  </b>: Ce Mardi Soir - Cinéclub</li>
 						<li><b>10h30-11h00  </b>: Les ptites actus - Web TV</li>
 						<li><b>11h00-11h30  </b>: Serecomhills</li>
 						<li><b>11h30-12h00  </b>: Sandbox - Court métrage</li>
-						<li><b>12h00-12h30  </b>: Blops - Film d'animation 3D </li>
+						<li><b>12h00-12h30  </b>: Etudes Handi - étudier avec un handicap </li>
 						<li><b>12h30-13h00  </b>: AL2 - promotion de l'alternance</li>
 					</ul>
 					</div>
