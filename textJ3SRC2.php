@@ -83,6 +83,7 @@
 						<li>Xavier Betourné (infographie)</li>
 						<li>Yann Bertacchini (communication)</li>
 						<li>Maamar Khaled (marketing)</li>
+						<li>Karim Adouane (audio visuel)</li>
 						
 					</ul>
 					
