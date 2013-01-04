@@ -130,6 +130,10 @@
 					</div>
 					<H3>6. Notation </H3>
 				
+<br>
+	<a class="btn btn-small" href="files/SRC2GrilleSoutenanceTechnique.doc">télécharger la grille de notation</a>
+<br>
+				
  	<p>
  		Un rapport est délivré par le jury à l'issu de la soutenance. Il contient une liste de recommandations qui 
  		devront être traitées avant la soutenance finale.
