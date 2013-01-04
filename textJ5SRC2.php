@@ -88,8 +88,10 @@ Quelques conseils:
 <H3>3. Document à remettre lors de la soutenance</H3>
 
 <p> 
- Lors de la soutenance, en plus du support de vos réalisations sur clé ou sur DVD (L5), 
- vous devez vous présenter avec un livret de quelques pages présentant les informations clés de votre projet que
+ Lors de la soutenance, en plus du support de vos réalisations sur clé ou sur DVD (L5).
+</p>
+<p>
+ Vous devez vous présenter avec un livret de quelques pages présentant les informations clés de votre projet que
  vous souhaitez présenter au jury.
 </p>
 
@@ -107,7 +109,60 @@ Quelques conseils:
 </div>
 
 
-<H3>4. Grille de notation </H3>
+<H3>4. Ordre de passage et composition des jury</H3>
+
+<p>
+ Les soutenances se dérouleront dans l'amphithéâtre, le 11/04, toute la journée. Les étudiants sont tenus d'assister à la demi journée de leur passage.
+</p>
+
+<p>
+ Tous les tuteurs sont convoqués pour les jury de soutenance. Un tuteur ne pourra pas évaluer son groupe. La note de soutenance sera donc une moyenne des notes données par les autres enseignants.
+</p>
+
+<p>La composition du jury du jeudi 11 avril est la suivante : </p>
+<ul>
+			<li>Christine Bréandon (communication, esthétisme, image)</li>
+			<li>Xavier Betourné (infographie)</li>
+			<li>Yann Bertacchini (communication, gestion de projet)</li>
+			<li>Maamar Khaled (marketing)</li>
+			<li>Karim Adouane (audio visuel)</li>
+			<li>Nathalie Pessel (informatique, algorithmique)</li>	
+			<li>Jean René Tozza (informatique, chef de département)</li>
+			<li>Marc Sadoux (3D, audio visuel)</li>
+			<li>Marielle Metge (communication)</li>
+			<li>Philippe Lacoste (gestion de projet)</li>				
+</ul>
+
+<p>Le déroulement de la journée est le suivant : </p>
+
+<div class ="alert alert-info">
+					<ul>
+						
+						<li><b>8h30  - 9h00  </b>: Safeline - promotion de la slack line (Saint Raphaël)</li>
+						<li><b>9h10  - 9h40  </b>: Wild-Eye - promotion du tir sportif (Saint Raphaël)</li>
+						<li><b>9h50  - 10h20  </b>: VarSports - Actualités sportives (Toulon)</li>
+						<li><b>PAUSE</b>
+						<li><b>10h40 - 11h10  </b>: Com'Unité Web (Toulon)</li>
+						<li><b>11h20 - 11h50  </b>: Com'Unité Com (Toulon)</li>
+						<li><b>12h00 - 12h30  </b>: Les ptites actus - Web TV (Saint Raphaël)</li>
+						<li><b>12h40 - 13h10  </b>: Serecomhills - Web Série (Saint Raphaël)</li>
+						<li><b>PAUSE</b>
+						<li><b>14h00 - 14h30  </b>: Ce Mardi Soir - Cinéclub (Saint Raphaël)</li>
+						<li><b>14h40 - 15h10  </b>: Etudes Handi - étudier avec un handicap (Saint Raphaël) </li>
+						<li><b>15h20 - 15h50  </b>: Blyms - évènementiel avec un enfant, un quartier, la ville (Saint Raphaël)</li>
+						<li><b>PAUSE</b>
+						<li><b>16h10 - 16h40  </b>: Organisation du festival SRC (Toulon)</li>
+						<li><b>16h50 - 17h20  </b>: Sandbox - Court métrage (Saint Raphaël)</li>
+						<li><b>17h30 - 18h00  </b>: Blops - Film d'animation 3D (Saint Raphaël)</li>
+
+						
+				
+
+					</ul>
+					</div>
+
+
+<H3>5. Notation </H3>
 
 <p>
 L'évaluation porte sur la présentation vestimentaire et orale, l'organisation du discours, 
@@ -116,4 +171,5 @@ les supports visuels, le produit, et l'explication de l'ensemble du projet.
 
 	<a class="btn btn-primary btn-small" href="files/SRC2GrilleSoutenance.doc">télécharger la grille de notation</a>
 <br>
+
 
