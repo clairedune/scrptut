@@ -166,5 +166,5 @@ Ici, vous présentez un retour des utilisateurs et du client sur le produit fina
    </p>
    
 <H3> 3. Grille de notation </H3>
-<a class="btn btn-primary btn-small" href="files/SRC2GrilleCDCF.doc">télécharger la grille de notation</a>
+<a class="btn btn-primary btn-small" href="files/SRC2GrilleSynthese.doc">télécharger la grille de notation</a>
 
