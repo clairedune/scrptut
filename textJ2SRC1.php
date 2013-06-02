@@ -100,6 +100,6 @@ L'évaluation porte sur la présentation vestimentaire et orale, l'organisation 
 les supports visuels, le produit, et l'explication de l'ensemble du projet.
 </p>
 
-	<a class="btn btn-primary btn-small" href="files/SRC1GrilleSoutenance.doc">télécharger la grille de notation</a>
+	<a class="btn btn-primary btn-small" href="files/SRC1GrilleSoutenances.doc">télécharger la grille de notation</a>
 <br>
 
