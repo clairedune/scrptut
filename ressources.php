@@ -117,28 +117,7 @@ body {
 				<td><a href="mailto:ledruillennec@yahoo.fr">Ledruillenec</a> (LDL)</td>
 				<td>Enseignant</td>
 				<td>Js</td>
-			</tr>
-			<tr>
-				<td><a href="mailto:dorian.camilleri@yahoo.fr">Dorian Camilleri<a></td>
-				<td>SRC2</td>
-				<td>Php, Js, HTML/CSS, BDD, prog. mobile</td>
-			</tr>	
-			<tr>
-				<td><a href ="mailto:belmonte.ben@gmail.com">Benjamin Belmonte</a></td>
-				<td>SRC2</td>
-				<td>HTML/CSS, Php, BDD</td>
-			</tr>	
-			<tr>
-				<td><a href="mailto:quentin.usiko@gmail.com">Quentin Ondet</a> </td>
-				<td>SRC2</td>
-				<td>Php, Js, HTML/CSS, BDD</td>
-			</tr>
-			<tr>
-				<td><a href=""mailto:jimlaurie@hotmail.fr">Jim Laurie</a> </td>
-				<td>SRC2</td>
-				<td>Php, HTML/CSS, BDD</td>
-			</tr>
-			
+			</tr>			
 		</tbody>
 	</table>
 </div>
@@ -171,16 +150,6 @@ body {
 				<td>Enseignant</td>
 				<td>CDCF, CDCT</td>
 			</tr>
-			<tr>
-				<td><a href="mailto:cinthia.bosano@gmail.com">Cynthia Bosano</a></td>
-				<td>PDTA</td>
-				<td>Gestion de projet</td>
-			</tr>
-			<tr>
-				<td><a href="mailto:jimlaurie@hotmail.fr">Jim Laurie</a></td>
-				<td>SRC2</td>
-				<td>Gestion de projet</td>
-			</tr>
 
 		</tbody>
 	</table>
@@ -210,16 +179,6 @@ body {
 				<td><a href="mailto:mbaldacchino@noos.fr">Baldacchino</a> (BAL)</td>
 				<td>Enseignant</td>
 				<td>Cadrage, Lumière, Scenario</td>
-			</tr>
-			<tr>
-				<td><a href="mailto:samia.boungab@hotmail.fr">Samia Boungab</a> </td>
-				<td>SRC2</td>
-				<td>Decoupage, Montage,Premiere Pro</td>
-			</tr>
-			<tr>
-				<td><a href="mailto:cinthia.bosano@gmail.com">Cynthia Bosani</a></td>
-				<td>PDTA</td>
-				<td>Tournage, Montage, Premiere Pro</td>
 			</tr>
 		</tbody>
 	</table>
@@ -252,11 +211,6 @@ body {
 				<td><a href="mailto:betourne.xavier@wanadoo.fr">Betournée</a> (XBE)</td>
 				<td>Enseignant</td>
 				<td>Graphisme, mise en page, suite Adobe</td>
-			</tr>
-			<tr>
-				<td><a href="mailto:marie.godin63@gmail.com">Marie Godin</a></td>
-				<td>SRC2</td>
-				<td>Illustrator, mise en page</td>
 			</tr>
 		</tbody>
 	</table>
@@ -329,11 +283,6 @@ body {
 				<td><a href="mailto:y.bertacchini@gmail.com">Bertacchini</a> (YB)</td>
 				<td>Enseignant</td>
 				<td>Communication, ppt</td>
-			</tr>
-			<tr>
-				<td><a href="mailto:metge@univ-tln.fr">Metge</a> (MME)</td>
-				<td>Enseignant</td>
-				<td>Préparation à la soutenance (Toulon)</td>
 			</tr>
 		</tbody>
 	</table>
