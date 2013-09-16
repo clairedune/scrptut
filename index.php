@@ -42,13 +42,13 @@ body {
 			<a class="brand" href="./index.html">Projets tuteurés IUT SRC</a>
 			<div class="nav-collapse">
 			<ul class="nav">
-				<li class="active"><a href="./index.html">Accueil</a></li>
+				<li class="active"><a href="./index.php">Accueil</a></li>
 				<li><a href="./informations.php">Informations générales</a></li>
-				<li><a href="./projets.html">Les projets</a></li>
+				<li><a href="./projets.php">Les projets</a></li>
 				<li><a href="./documents.php">Livrables et documents</a></li>
 				<li><a href="./tuteur.php">Tuteur</a></li>
      			<li><a href="./ressources.php">Ressources</a></li>				
-				<li><a href="./contact.html">Contacts</a></li>
+				<li><a href="./contact.php">Contacts</a></li>
 			</ul>
 			</div><!--/.nav-collapse -->
 		</div>
@@ -92,88 +92,17 @@ et savoir-faire acquis au cours des deux années d'étude au département SRC, d
 	  Dates clés
 	</H3>
 
-<table class="table table-striped table-condensed " style ="font-size:11px;">
-
-<thead>
-<tr>
-<th scope="col"> </th>
-<th scope="col"> <a href="http://localhost/~dune/ptut/documents.php#src1">SRC1</a></th>
-<th scope="col"> <a href="http://localhost/~dune/ptut/documents.php">SRC2</a></th>
-</tr>
-</thead>
-
-<tbody>
-
-<tr>
-<td> 4/09 </td>
-<td>  </td>
-<td> <i>Lancement</i> </td>
-</tr>
-
-<tr>
-<td> 30/09 </td>
-<td>  </td>
-<td> Doc. Admin.</td>
-</tr>
-
-<tr>
-<td> 5/11 </td>
-<td>  </td>
-<td> CDCF </td>
-</tr>
-
-<tr>
-<td> 07/01 </td>
-<td> <i>Lancement</i>  </td>
-<td> </td>
-</tr>
-
-<tr>
-<td> 14/01 </td>
-<td>  </td>
-<td> Point avancement </td>
-</tr>
-
-<tr>
-<td> 05/02 </td>
-<td> Doc. Admin.  </td>
-<td> </td>
-</tr>
-
-<tr>
-<td> 01/04 </td>
-<td> </td>
-<td> Dossier Synth. </td>
-</tr>
-
-<tr>
-<td> 11/04 </td>
-<td>  </td>
-<td> Soutenance  </td>
-</tr>
-
-<tr>
-<td> 04/05 </td>
-<td>CDCF  </td>
-<td>  </td>
-</tr>
-
-<tr>
-<td> 01/06 </td>
-<td> Site Web   </td>
-<td>  </td>
-</tr>
-
-
-<tr>
-<td> 11-12/06 </td>
-<td> Soutenance   </td>
-<td>  </td>
-</tr>
-
-</tbody>
-</table>
-
+	<div>
+		<table class="table table-striped table-condensed " style ="font-size:11px;">
+		<thead>
+			<tr>
+				<th scope="col"> </th>
+				<th scope="col"> <a href="documents.php">SRC2</a></th>
+			</tr>
+		</thead>
+       		<?php input('contenu/datesSRC2.php');?>
+		</table>
+	</div>
 </div>
 
 

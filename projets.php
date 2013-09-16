@@ -44,13 +44,13 @@ body {
 			<a class="brand" href="./index.html">Projets tuteurés IUT SRC</a>
 			<div class="nav-collapse">
 			<ul class="nav">
-				<li><a href="./index.html">Accueil</a></li>
+				<li><a href="./index.php">Accueil</a></li>
 				<li><a href="./informations.php">Informations générales</a></li>
-				<li class="active"><a href="./projets.html">Les projets</a></li>
+				<li class="active"><a href="./projets.php">Les projets</a></li>
 				<li><a href="./documents.php">Livrables et documents</a></li>
 				<li><a href="./tuteur.php">Tuteur</a></li>	
      			<li><a href="./ressources.php">Ressources</a></li>
-				<li><a href="./contact.html">Contacts</a></li>
+				<li><a href="./contact.php">Contacts</a></li>
 			</ul>
 			</div><!--/.nav-collapse -->
 		</div>
