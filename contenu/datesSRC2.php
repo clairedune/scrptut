@@ -9,17 +9,17 @@
 			</tr>
 
 			<tr>
-				<td> 20/09 </td>
-				<td> Attribution projets</td>
+				<td> 30/09 </td>
+				<td> Cloture attribution</td>
 			</tr>
 
 			<tr>
 				<td> 19/10 </td>
-				<td> CDCF </td>
+				<td> CDC fonctionnel </td>
 			</tr>
 			<tr>
-				<td> 13/01 </td>
-				<td> Point avancement </td>
+				<td> 9/01 </td>
+				<td> Soutenance mi parcours </td>
 			</tr>
 
 			<tr>
@@ -28,7 +28,7 @@
 			</tr>
 
 			<tr>
-				<td> 11/04 </td>
+				<td> 10/04 </td>
 				<td> Soutenance  </td>
 			</tr>
 

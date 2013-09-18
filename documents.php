@@ -399,19 +399,19 @@ body {
 					<!-- Sous-Section src2L1
 					================================================== -->
 					<div class="tab-pane active" id="src2L1">
-      					<?php include('textL1SRC2.php') ?>	      					
+      					<?php include('contenu/textL1SRC2.php') ?>	      					
    						</div><!--fin sous section src2L1-->
     					
    						<!-- Sous-Section src2L2
    						================================================== -->
     					<div class="tab-pane" id="src2L2">
-      					<?php include('textL2SRC2.php');?>
+      					<?php include('contenu/textL2SRC2.php');?>
     					</div><!--fin sous section src2L2-->
 	 					
 	 					<!-- Sous-Section src2L3
 						================================================== -->
  						<div class="tab-pane" id="src2L3">
- 						<?php include('textL3SRC2.php');?>		
+ 						<?php include('contenu/textL3SRC2.php');?>		
     					</div><!--fin sous section src2L3-->
     					
     					<!-- Sous-Section src2L4
@@ -423,13 +423,13 @@ body {
     					<!-- Sous-Section src2L4
 						================================================== -->
 	 					<div class="tab-pane" id="src2L4">
-      					<?php include('textL4SRC2.php')?>
+      					<?php include('contenu/textL4SRC2.php')?>
     					</div><!--fin sous section src2L4-->
     					
     					<!-- Sous-Section src2L5
 						================================================== -->
 	 					<div class="tab-pane" id="src2L5">
-      					<?php include('textL5SRC2.php')?>
+      					<?php include('contenu/textL5SRC2.php')?>
     					</div><!--fin sous section src2L5-->
 
     					
@@ -437,7 +437,7 @@ body {
 						================================================== -->
 	 					<div class="tab-pane" id="src2J1">
       					
-      					<?php include('textJ1SRC2.php')?>
+      					<?php include('contenu/textJ1SRC2.php')?>
 						    					
       					
     					</div><!--fin sous section src2J1-->
@@ -445,33 +445,33 @@ body {
     					<!-- Sous-Section src2J2
 						================================================== -->
 	 					<div class="tab-pane" id="src2J2">
-      					<?php include('textJ2SRC2.php')?>
+      					<?php include('contenu/textJ2SRC2.php')?>
       					</div><!--fin sous section src2J2-->
       					
       					<!-- Sous-Section src2J3
 						================================================== -->
 	 					<div class="tab-pane" id="src2J3">
-	 					<?php include('textJ3SRC2.php')?>
+	 					<?php include('contenu/textJ3SRC2.php')?>
       					</div><!--fin sous section src2J3-->
       					
       					      					
       					<!-- Sous-Section src2J4
 						================================================== -->
 	 					<div class="tab-pane" id="src2J4">
-      					<?php include('textJ4SRC2.php')?>
+      					<?php include('contenu/textJ4SRC2.php')?>
     					</div><!--fin sous section src2J4-->
       					
       					<!-- Sous-Section src2J5
 						================================================== -->
 	 					<div class="tab-pane" id="src2J5">
-      					<?php include('textJ5SRC2.php')?>
+      					<?php include('contenu/textJ5SRC2.php')?>
     					</div><!--fin sous section src2J5-->
     					
     					<!-- Sous-Section src2CR
 						================================================== -->
 	 					<div class="tab-pane" id="src2CR">
       					
-      					<?php include('textCR.php'); ?>
+      					<?php include('contenu/textCR.php'); ?>
       					
     					</div><!--fin sous section src2CR-->
     					
@@ -486,113 +486,17 @@ body {
 			    
 			    <div class= "span4">
 	            	<div class="alert alert-info">
-						<table class="table table-striped  " style ="font-size:11px;">
-							<thead>
-								<tr>
-									<th scope="col"> Date</th>
-									<th scope="col"> Nom</th>
-									<th scope="col"> Coeff.</th>
-									<th scope="col"> Nomenclature</th>
-								</tr>
-							</thead>
 						
-							<tbody>
-								<tr>
-									<td> 30/09 </td>
-									<td> L1.1<br>
-									L1.2<br>
-									L1.3</td>
-									<td> </td>
-									<td> 20120930_Projet_L1.1<br>
-									20120930_Projet_L1.2<br>
-									20120930_Projet_L1.3</td>
-								</tr>
-							
-
-								<!--<tr>
-									<td> 30/09 </td>
-									<td> L1.2</td>
-									<td> </td>
-									<td> 20120930_Projet_L1.2</td>
-								</tr>
-						
-								<tr>
-									<td> 30/09 </td>
-									<td> L1.3</td>
-									<td> </td>
-									<td> 20120930_Projet_L1.3</td>
-								</tr>-->
-								
-								<tr>
-									<td> [sept-oct]</td>
-									<td> J1</td>
-									<td> </td>
-									<td> Date_Projet_J1</td>
-								</tr>
-								
-									
-								<tr>
-									<td> 05/11 </td>
-									<td> L2 </td>
-									<td> 3 </td>
-									<td> 20121105_Projet_L2</td>
-								</tr>
-								
-								<tr>
-									<td> [oct-jan] </td>
-									<td> J2</td>
-									<td> </td>
-									<td> Date_Projet_J2</td>
-								</tr>
-														
-								<tr>
-									<td> 14/01 </td>
-									<td> L3<br>J3</td>
-									<td> 3 <br></td>
-									<td>20130114_Projet_J3<br> 20130114_Projet_J3</td>
-								</tr>
-								
-								<tr>
-									<td> [jan-avr] </td>
-									<td> J4</td>
-									<td> </td>
-									<td> Date_Projet_J4</td>
-								</tr>
-									
-								<tr>
-									<td> 01/04 </td>
-									<td> L4</td>
-									<td> 4</td>
-									<td> 20130401_Projet_L4</td>
-								</tr>
-								
-								<tr>
-									<td> 05/04 </td>
-									<td> L5 </td>
-									<td> 2<br></td>
-									<td> clé USB et/ou DVD</td>
-								</tr>	
-									
-								<tr>
-									<td> 11/04 </td>
-									<td> L5<br>J5 </td>
-									<td> 2<br>5<br></td>
-									<td> support des réalisations <br>soutenance</td>
-								</tr>
-								
-									
-								<tr>
-									<td> 01/* </td>
-									<td> CR</td>
-									<td> 2 </td>
-									<td> 2012*01_Agence_CR </td>
-								</tr>
-								
-								
-									
-							</tbody>
-						</table>                
-	                </div> <!--fin div class alert-->
+						<table class="table table-striped table-condensed " style ="font-size:11px;">
+						<thead>
+							<tr>
+								<th scope="col"> </th>
+								<th scope="col"> <a href="documents.php">SRC2</a></th>
+							</tr>
+						</thead>
+       					<?php include('contenu/datesSRC2.php');?>
+						</table>
+			        </div> <!--fin div class alert-->
 	  			</div> <!-- fin div class span 4-->	
 			    
       				

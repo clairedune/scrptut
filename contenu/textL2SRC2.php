@@ -2,14 +2,27 @@
 							
 <H3>1. Fond</H3>
 <p>
-	La rédaction du cahier des charges fonctionnel suit le formalisme enseigné dans 
-	les cours de gestion de projet.</p>
+	Le cahier des charges fonctionnel définit les objectifs à atteindre et vise à bien cadrer les différentes missions à mener dans le projet. Vous devez reformuler les besoins du projet et le situer dans son contexte. </p>
 
 <div class ="alert alert-info">
 	<span class="label label-important">Important</span> 
-	A ce stade, vous devez présenter un découpage fonctionnel de votre projet
-	et ne pas entrer dans les détails techniques.
-</div>
+
+	<p>A ce stade, vous devez présenter un découpage fonctionnel de votre projet
+	et ne pas entrer dans les détails techniques pour implémenter ces fonctionnalités. 
+	</p>
+	</div>
+	<p>
+	Vous découpez votre projet en tâches et sous tâches. Vous devrez hierarchiser ces tâches et sous tâches en fonction de leur importances (obligatoire, optionnelles, facultatives), les organiser dans le temps en proposant un planning et enfin les distribuer à votre équipe selon les compétences de chacun.</p>
+
+<H4>Un exemple de plan (inspiré de la norme AFNOR x50-151)</H4>
+
+<p>Bientôt un plan type pour votre cahier des charges fonctionnel à télécharger.</p>
+
+<!--<a class="btn btn-primary btn-small" href="files/SRC2PlanCDCFAFNOR.doc">télécharger le plan type</a>-->
+
+
+
+
 
 <H3>2. Forme</H3>
    
@@ -18,11 +31,19 @@
             	    tout document comportant un trop grand nombre de fautes de français sera considéré 
             	    comme <i>illisible</i> et ne sera pas évalué. Il devra être corrigé par les étudiants
             	    et soumis à nouveau avec un malus de 4 points.</div>
+            	    
+   <div class ="alert alert-info"><span class="label label-important">Important</span> 
+            	    <b>Format</b> : 
+            	    les documents doivent être remis sous la forme d'un fichier pdf. Leur taile ne doit
+            	    pas excéder 4Mo. </div>
    
    
    <p>
-   	Par ailleurs, vous devrez respecter les règles suivantes :
-            	
+   	Par ailleurs, vous devrez respecter les règles indiquées dans le documents suivant 
+   	
+   	<a class="btn btn-primary btn-small" href="files/SRC2CDFCRegles.doc">Règles de mise en forme</a>
+
+            	<!--
             	<ul>
                		<li><b>Format</b>
             		<ul>
@@ -71,7 +92,7 @@
             			<li>CR mensuels</li>
             		</ul>
             	</ul>
-   </p>
+   </p> -->
 				
 				<H3>3. Grille de notation</H3>
 
@@ -85,6 +106,5 @@
 					sont différents les uns des autres afin de pouvoir créer votre propre cahier des charges.</p>	
 					<a class="btn btn-primary btn-small" href="files/MozaikCDCF.pdf">projet Mozaik 2011-2012</a>
 					<a class="btn btn-primary btn-small" href="files/ObviousCDCF.pdf">projet Obvious 2011-2012</a>		
-      				<a class="btn btn-primary btn-small" href="files/ClickawayCDCF.pdf">projet Clickaway 2011-2012</a>
 					<a class="btn btn-primary btn-small" href="files/TethysCDCF.pdf">projet Thethys 2011-2012</a>
       					

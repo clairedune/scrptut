@@ -100,12 +100,11 @@ et savoir-faire acquis au cours des deux années d'étude au département SRC, d
 				<th scope="col"> <a href="documents.php">SRC2</a></th>
 			</tr>
 		</thead>
-       		<?php input('contenu/datesSRC2.php');?>
+       		<?php include('contenu/datesSRC2.php');?>
 		</table>
 	</div>
 </div>
-
-
+</div>
 </div> <!-- /bloc principal-->
 
 <div style="clear:both;">
