@@ -194,7 +194,7 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
-        Agence de production de courts métrages 
+        Courts métrages 
       </a>
     </div>
     <div id="collapseOne" class="accordion-body collapse">
@@ -219,7 +219,7 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
     <div class="accordion-group">
       <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseClip">
-        Agence de production de clips vidéos
+        Clips vidéos
       </a>
     </div>
     <div id="collapseClip" class="accordion-body collapse">
@@ -244,7 +244,7 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
-       Agence de production d'une web série
+       Web série
       </a>
     </div>
     <div id="collapseTwo" class="accordion-body collapse">
