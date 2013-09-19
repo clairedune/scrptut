@@ -101,12 +101,32 @@ body {
 <div class="accordion" id="accordion2">
 <!-- Court Metrage -->
 
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
+			Trier à l'université
+      </a>
+    </div>
+    <div id="collapseSix" class="accordion-body collapse">
+      <div class="accordion-inner">
+        <p>Proposer une solution de trie des déchets au département et à l'université</p>
+
+		<p>Ce projet consiste à monter un dossier complet qui sera proposé à l'université à la fin de l'année. L'objectif est de convaincre la présidence de 
+		mettre en place une solution de tri à la portée de tous et dans tous les bâtiments de l'université. Le dossier devra contenir une solution clé en main, communication inclue.Le département SRC pourra cette année servir de laboratoire à petite échelle pour tester la solution proposée.</p>
+		
+		<p>Il faut donc prospécter auprès des entreprises de collecte de déchets dans la région, créer et distribuer les contenaires et sensibiliser les étudiants, les enseignants et les personnels techniques et admninistratif au tri des déchets.</p>
+	
+		<p>En deuxième année, les étudiants doivent concevoir une application web orchestrant la récolte des déchets sur les différents sites de l'université.</p>
+ 
+      </div>
+    </div>
+  </div>
 
 
     <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
-       Performance artistique "Moon can dance"
+       Spectacle "Moon can dance"
       </a>
     </div>
     <div id="collapseSix" class="accordion-body collapse">
@@ -128,7 +148,7 @@ body {
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
-       Air DJ (kinect)
+       Performance artistique air DJ (kinect)
       </a>
     </div>
     <div id="collapseSix" class="accordion-body collapse">
