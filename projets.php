@@ -191,6 +191,27 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
     </div>
   </div>
 
+<div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseStage">
+       Gestion interne du suivi des stages et des projets
+      </a>
+    </div>
+    <div id="collapseStage" class="accordion-body collapse">
+      <div class="accordion-inner">
+        <p>Concevoir un outil web permettant de gérer le suivi des stages et des projet.</p>
+        
+        <p>
+        	Dans le cadre des projets tuteurés et des stages, les étudiants et les enseignants doivent remplir des documents administratifs de suivi tout au long des periodes de stages et de projet. Cette application vise à centraliser tous les documents et les fiches de notation sur une même plateforme.
+        </p>    
+        
+        <p>Une réflexion doit être mené sur l'ergonomie du site et un soin tout particulier sera porté à sécurité. Les enseignants et les étudiants doivent être formés à l'utilisation de ce site.</p>
+      </div>
+    </div>
+  </div>
+
+
+
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
