@@ -192,7 +192,6 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
   </div>
 
   <div class="accordion-group">
-
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
         Agence de production de courts métrages 
@@ -217,7 +216,7 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
       </div>
     </div>
   </div>
-  
+    <div class="accordion-group">
       <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseClip">
         Agence de production de clips vidéos
