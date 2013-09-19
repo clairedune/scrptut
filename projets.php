@@ -195,7 +195,7 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
 
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
-        Agence de production de Court Metrage 
+        Agence de production de courts métrages 
       </a>
     </div>
     <div id="collapseOne" class="accordion-body collapse">
@@ -217,10 +217,35 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
       </div>
     </div>
   </div>
+  
+      <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseClip">
+        Agence de production de clips vidéos
+      </a>
+    </div>
+    <div id="collapseClip" class="accordion-body collapse">
+      <div class="accordion-inner">
+        <p>Promouvoir les jeunes artistes en leur proposant d'enregistrer leur premier clip</p>
+        
+        <p>
+         Aller à la rencontre d'artistes ou de groupes de musique locaux pour leur proposer de tourner leur premier clip. 
+         Cette agence réalise des clips vidéo en tout genres (films, animations 3D, stop motion, etc…) et les diffuse sur
+         sa plateforme en ligne.
+           </p>
+           <p>
+           En seconde année, les étudiants devront également développer une application web. Ils pourront par exemple 
+           créer un formulaire en ligne pour que les groupes déposent leur maquette et s'inscrivent. Ensuite, ils pourront
+           suivre l'évolution de leur clip en temps réél en se connectant sur le site.
+           </p>
+      </div>
+    </div>
+  </div>
+
+  
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
-       Agence de production d'une Web Serie
+       Agence de production d'une web série
       </a>
     </div>
     <div id="collapseTwo" class="accordion-body collapse">
@@ -241,32 +266,7 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
       </div>
     </div>
   </div>
-  <div class="accordion-group">
-    <div class="accordion-heading">
-      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
-       Jeu de Rôle Grandeur Nature
-      </a>
-    </div>
-    <div id="collapseThree" class="accordion-body collapse">
-      <div class="accordion-inner">
-        <p>Scénarisation et organisation d'un jeu de rôle grandeur nature</p>
-        <p>
-         	Cette agence de projet doit scénariser et organiser un jeu de rôle grandeur nature à destination des personnels et des
-         	étudiants du département SRC. Ils devront assurer une communication efficace pour faire participer 
-         	le plus grand nombre à cet évènement. Ils seront évalués sur la qualité de leur scénarisation, le nombre de participants et
-         	leur satisfaction. 
-        </p>
-         <p>	
-         	En seconde année, les étudiants devront développer une application web/smart phone permettant de gérer la création des
-         	personnage et le déroulement du jeu. Chaque participant recevra sa fiche personnage sur son smart phone et verra en 
-         	temps réel l'évolution de ses caractéristiques. En parallèle de cela, l'application permettra aux maîtres du jeux d'avoir une
-         	vue de l'état courant de la partie (nombre de personnages encore en jeu, avancée dans le jeu.)
-        </p>
-        
-      </div>
-    </div>
-  </div>
-  <div class="accordion-group">
+   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
        Jeu de Rôle Grandeur Nature
