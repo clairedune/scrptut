@@ -102,8 +102,8 @@ body {
 <!-- Court Metrage -->
 
 
-  <div class="accordion-group">
-    
+
+    <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
        Performance artistique "Moon can dance"
@@ -120,12 +120,13 @@ body {
 				<li> concevoir un site internet qui présentera le spectacle</li>
 			</ul>
 
-		<p>Ce projet demande du traitement du son et de la vidéo. D'autre part, la pub et les maquettes demanderont un traitement de l'image. C'est un projet complet dans le cadre de notre enseignement qu'on pourra modeler à notre guise pour l'adapter à chaque étudiant du groupe de projet.
-		</p>
+		<p>Ce projet demande du traitement du son et de la vidéo. D'autre part, la pub et les maquettes demanderont un traitement de l'image. C'est un projet complet dans le cadre de notre enseignement qu'on pourra modeler à notre guise pour l'adapter à chaque étudiant du groupe de projet.</p>
+
       </div>
+    </div>
   </div>
-  
-  <div class="accordion-heading">
+  <div class="accordion-group">
+    <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven">
        Restaurant 'Le Cristal' a Frejus
       </a>
@@ -147,8 +148,9 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
          </p>
       </div>
     </div>
-  
+  </div>
 
+  <div class="accordion-group">
 
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
@@ -172,8 +174,9 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
            plateforme permettant à un public à définir de dépôser des courts métrages qui seront évalués par les internautes.
            </p>
       </div>
+    </div>
   </div>
-  
+  <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
        Web Serie
@@ -195,7 +198,9 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
         </p>
         
       </div>
+    </div>
   </div>
+  <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
        Jeu de Rôle Grandeur Nature
@@ -219,6 +224,8 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
         
       </div>
     </div>
+  </div>
+<div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour">
        Bande dessinée interactive
@@ -245,6 +252,8 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
         
       </div>
     </div>
+  </div>
+  <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFive">
        Gazette du département
@@ -268,6 +277,7 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
         
       </div>
     </div>
+  </div>
 
 
 
