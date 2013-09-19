@@ -236,7 +236,7 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
            créer un formulaire en ligne pour que les groupes déposent leur maquette et s'inscrivent. Ensuite, ils pourront
            suivre l'évolution de leur clip en temps réél en se connectant sur le site.
            </p>
-      </div>
+      </div>     
     </div>
   </div>
 
