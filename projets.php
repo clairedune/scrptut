@@ -104,7 +104,7 @@ body {
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTri">
-			Trier à l'université
+			Trier à l'université (PES)
       </a>
     </div>
     <div id="collapseTri" class="accordion-body collapse">
@@ -126,7 +126,7 @@ body {
     <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseMoon">
-       Spectacle "Moon can dance"
+       Spectacle "Moon can dance" (MR)
       </a>
     </div>
     <div id="collapseMoon" class="accordion-body collapse">
@@ -148,7 +148,7 @@ body {
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
-       Performance artistique air DJ (kinect)
+       Performance artistique air DJ (kinect) (CD-KAD)
       </a>
     </div>
     <div id="collapseSix" class="accordion-body collapse">
@@ -169,7 +169,7 @@ body {
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven">
-       Restaurant "Le Cristal" a Frejus
+       Restaurant "Le Cristal" a Frejus (YB)
       </a>
     </div>
 <div id="collapseSeven" class="accordion-body collapse">
@@ -194,7 +194,7 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
 <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseStage">
-       Gestion interne du suivi des stages et des projets
+       Gestion interne du suivi des stages et des projets 
       </a>
     </div>
     <div id="collapseStage" class="accordion-body collapse">
@@ -215,7 +215,7 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
-        Courts métrages 
+        Courts métrages (KAD)
       </a>
     </div>
     <div id="collapseOne" class="accordion-body collapse">
@@ -265,7 +265,7 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
-       Web série
+       Web série (KAD)
       </a>
     </div>
     <div id="collapseTwo" class="accordion-body collapse">
@@ -290,7 +290,7 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapse3D">
-       Film animation 3D
+       Film animation 3D (SAD)
       </a>
     </div>
     <div id="collapse3D" class="accordion-body collapse">
