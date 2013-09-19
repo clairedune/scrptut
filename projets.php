@@ -100,7 +100,56 @@ body {
 
 <div class="accordion" id="accordion2">
 <!-- Court Metrage -->
+
+
   <div class="accordion-group">
+    
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
+       Performance artistique "Moon can dance"
+      </a>
+    </div>
+    <div id="collapseSix" class="accordion-body collapse">
+      <div class="accordion-inner">
+        <p>Production d'un spectacle chorégraphique d'une heure environ avec 3 danseurs professionnels sur le thème de". la légende de la Lune"</p>
+
+		<p>Ce projet couvre plusieurs volets :</p>
+			<ul>
+				<li> composition (par des musiciens dont Michel Raynaud) édition et mixage de la musique avec Protools</li>
+				<li> filmer et monter une vidéo promotionnelle</li>
+				<li> concevoir un site internet qui présentera le spectacle</li>
+			</ul>
+
+		<p>Ce projet demande du traitement du son et de la vidéo. D'autre part, la pub et les maquettes demanderont un traitement de l'image. C'est un projet complet dans le cadre de notre enseignement qu'on pourra modeler à notre guise pour l'adapter à chaque étudiant du groupe de projet.
+		</p>
+      </div>
+  </div>
+  
+  <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven">
+       Restaurant 'Le Cristal' a Frejus
+      </a>
+    </div>
+<div id="collapseSeven" class="accordion-body collapse">
+      <div class="accordion-inner">
+        <p>Campagne de communication pour le restaurant 'le Cristal' à Frejus</p>
+        
+        <p>Le restaurant ‘Le Cristal’ est implanté à Fréjus, 1513 avenue De Lattre de Tassigny, et fait partie de l’ESAT (établissement et service d’aide par le travail) les Mimosas. Ce restaurant intègre et forme des travailleurs handicapés pour les faire accéder à une vie professionnelle.</p>
+
+<p>Le restaurant « Le cristal » vous accueille pour (petit) déjeuner sur place, propose également les formules à emporter. Il existe aussi la possibilité de louer des salles entièrement équipées en vue d’organiser des séminaires.</p>
+         
+         <p>
+         Son directeur Bruno Rollet souhaite faire davantage connaître localement son 
+établissement, augmenter le nombre de repas servis, de formules à emporter et 
+communiquer sur les salles disponibles à louer pour l’organisation de séminaires.
+Il s’agit donc de mesurer le potentiel de cet établissement, d’estimer le chiffre d’affaires 
+correspondant et pour cela, réfléchir à sa communication off et on line.
+         </p>
+      </div>
+    </div>
+  
+
+
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
         Court Metrage 
@@ -123,9 +172,8 @@ body {
            plateforme permettant à un public à définir de dépôser des courts métrages qui seront évalués par les internautes.
            </p>
       </div>
-    </div>
   </div>
-  <div class="accordion-group">
+  
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
        Web Serie
@@ -147,9 +195,7 @@ body {
         </p>
         
       </div>
-    </div>
   </div>
-  <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
        Jeu de Rôle Grandeur Nature
@@ -173,8 +219,6 @@ body {
         
       </div>
     </div>
-  </div>
-<div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour">
        Bande dessinée interactive
@@ -201,8 +245,6 @@ body {
         
       </div>
     </div>
-  </div>
-  <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFive">
        Gazette du département
@@ -226,53 +268,7 @@ body {
         
       </div>
     </div>
-  </div>
-  <div class="accordion-group">
-    <div class="accordion-heading">
-      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
-       Performance artistique "Moon can dance"
-      </a>
-    </div>
-    <div id="collapseSix" class="accordion-body collapse">
-      <div class="accordion-inner">
-        <p>Production d'un spectacle chorégraphique d'une heure environ avec 3 danseurs professionnels sur le thème de". la légende de la Lune"</p>
 
-		<p>Ce projet couvre plusieurs volets :</p>
-			<ul>
-				<li> composition (par des musiciens dont Michel Raynaud) édition et mixage de la musique avec Protools</li>
-				<li> filmer et monter une vidéo promotionnelle</li>
-				<li> concevoir un site internet qui présentera le spectacle</li>
-			</ul>
-
-		<p>Ce projet demande du traitement du son et de la vidéo. D'autre part, la pub et les maquettes demanderont un traitement de l'image. C'est un projet complet dans le cadre de notre enseignement qu'on pourra modeler à notre guise pour l'adapter à chaque étudiant du groupe de projet.</p>
-
-      </div>
-    </div>
-  </div>
-  <div class="accordion-group">
-    <div class="accordion-heading">
-      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven">
-       Restaurant 'Le Cristal' a Frejus
-      </a>
-    </div>
-<div id="collapseSeven" class="accordion-body collapse">
-      <div class="accordion-inner">
-        <p>Campagne de communication pour le restaurant 'le Cristal' à Frejus</p>
-        
-        <p>Le restaurant ‘Le Cristal’ est implanté à Fréjus, 1513 avenue De Lattre de Tassigny, et fait partie de l’ESAT (établissement et service d’aide par le travail) les Mimosas. Ce restaurant intègre et forme des travailleurs handicapés pour les faire accéder à une vie professionnelle.</p>
-
-<p>Le restaurant « Le cristal » vous accueille pour (petit) déjeuner sur place, propose également les formules à emporter. Il existe aussi la possibilité de louer des salles entièrement équipées en vue d’organiser des séminaires.</p>
-         
-         <p>
-         Son directeur Bruno Rollet souhaite faire davantage connaître localement son 
-établissement, augmenter le nombre de repas servis, de formules à emporter et 
-communiquer sur les salles disponibles à louer pour l’organisation de séminaires.
-Il s’agit donc de mesurer le potentiel de cet établissement, d’estimer le chiffre d’affaires 
-correspondant et pour cela, réfléchir à sa communication off et on line.
-         </p>
-      </div>
-    </div>
-  </div>
 
 
 
