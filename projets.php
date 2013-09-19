@@ -322,6 +322,29 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
 
 
 
+<div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTV">
+       Show télévisé en direct
+      </a>
+    </div>
+    <div id="collapseTV" class="accordion-body collapse">
+      <div class="accordion-inner">
+        <p>Show télévisé en direct avec public streamé en ligne.</p>
+        <p>
+           Dans ce projet, les étudiants doivent produire un TV show tourné en direct et en public. Ils doivent construire leur programme en incluant plusieurs rubriques.  
+           Les emissions seront tournée dans l'amphithéatre avec présence d'un public et avec participation du public. Tout au long des émissions, le public sera mis à
+           contribution. Les émissions seront diffusées en direct sur le net et sur les TV de l'IUT.
+         </p>
+        
+        <p>
+        	En deuxième année, les étudiants devront développer une application web ou une application smart phone pour que le public puisse participer depuis chez lui et depuis l'amphi.
+        </p>
+         
+        
+      </div>
+    </div>
+  </div>
 
 
 
