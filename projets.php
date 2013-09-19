@@ -103,11 +103,11 @@ body {
 
   <div class="accordion-group">
     <div class="accordion-heading">
-      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTri">
 			Trier à l'université
       </a>
     </div>
-    <div id="collapseSix" class="accordion-body collapse">
+    <div id="collapseTri" class="accordion-body collapse">
       <div class="accordion-inner">
         <p>Proposer une solution de trie des déchets au département et à l'université</p>
 
@@ -125,11 +125,11 @@ body {
 
     <div class="accordion-group">
     <div class="accordion-heading">
-      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseMoon">
        Spectacle "Moon can dance"
       </a>
     </div>
-    <div id="collapseSix" class="accordion-body collapse">
+    <div id="collapseMoon" class="accordion-body collapse">
       <div class="accordion-inner">
         <p>Production d'un spectacle chorégraphique d'une heure environ avec 3 danseurs professionnels sur le thème de". la légende de la Lune"</p>
 
