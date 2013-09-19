@@ -195,7 +195,7 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
 
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
-        Court Metrage 
+        Agence de production de Court Metrage 
       </a>
     </div>
     <div id="collapseOne" class="accordion-body collapse">
@@ -220,7 +220,7 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
-       Web Serie
+       Agence de production d'une Web Serie
       </a>
     </div>
     <div id="collapseTwo" class="accordion-body collapse">
@@ -266,30 +266,55 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
       </div>
     </div>
   </div>
-<div class="accordion-group">
+  <div class="accordion-group">
     <div class="accordion-heading">
-      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour">
-       Bande dessinée interactive
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
+       Jeu de Rôle Grandeur Nature
       </a>
     </div>
-    <div id="collapseFour" class="accordion-body collapse">
+    <div id="collapseThree" class="accordion-body collapse">
       <div class="accordion-inner">
-        <p>Réaliser une bande dessinée destinée à une diffusion en ligne en utilisant l'outil "turbo média" (voir pour exemple, media entity)  </p>
+        <p>Scénarisation et organisation d'un jeu de rôle grandeur nature</p>
         <p>
-           Dans le cadre de ce projet, les étudiants auront l'appui d'un dessinateur professionnel à qui il
-           commanderont les dessins. Il devront principalement proposer un scénario et un découpage adapté à une diffusion en ligne.
-           S'ils le souhaitent, ils pourront également mettre la main à la pâte en dessinant les décors. 
-           Ils devront numériser les dessins fournis et les insérer dans leurs planches interactives. 
-           Ils assureront la promotion du projet via une campagne de communication efficace et présenteront leur production
-           au cours des journées portes ouvertes du département.
+         	Cette agence de projet doit scénariser et organiser un jeu de rôle grandeur nature à destination des personnels et des
+         	étudiants du département SRC. Ils devront assurer une communication efficace pour faire participer 
+         	le plus grand nombre à cet évènement. Ils seront évalués sur la qualité de leur scénarisation, le nombre de participants et
+         	leur satisfaction. 
+        </p>
+         <p>	
+         	En seconde année, les étudiants devront développer une application web/smart phone permettant de gérer la création des
+         	personnage et le déroulement du jeu. Chaque participant recevra sa fiche personnage sur son smart phone et verra en 
+         	temps réel l'évolution de ses caractéristiques. En parallèle de cela, l'application permettra aux maîtres du jeux d'avoir une
+         	vue de l'état courant de la partie (nombre de personnages encore en jeu, avancée dans le jeu.)
+        </p>
+        
+      </div>
+    </div>
+  </div>
+
+<div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseWebDocu">
+       Réalisation d'un web documentaire
+      </a>
+    </div>
+    <div id="collapseWebDocu" class="accordion-body collapse">
+      <div class="accordion-inner">
+        <p>Réaliser un web documentaire sur un sujet au choix</p>
+        
+        <p>Le web documentaire est un nouveau style de narration qui intègre tous les médias dans même support web interactif. Le spectateur occupe une place centrale puisqu'il définit lui même l'ordre des séquences au fil de sa navigation.</p>
+        
+        <p>
+          En premiere année, les étudiants doivent étudier un dizaines de web documentaires de style différents et les recenser dans site vitrine. Il doivent choisir un thème pour leur propre web documentaire, réaliser la documentation et trouver les intervenants pour proposer un premier reportage pilote. Il doivent également proposer une scénarisation de leur web documentaire ainsi qu'une première identité graphique.
         </p>
         
         <p>
-        	En deuxième année, la bande dessinée doit être présentée sous une forme interactive, 
-        	par exemple en utilisant le moteur "turbo media". L'oeuvre produite devra être disponible sur un support web dynamique avec
-        	possibilité d'ajout de commentaires. Le projet peut être diffuser sous la forme d'épisodes pour fidéliser le public.
+        	En deuxième année, la suite des reportages composants le web documentaires doivents êtres tournés et intégrer dans un support intéractif unique pour constituer le web documentaire à proprement parler. 
         </p>
-         
+        
+        <p>
+          Les étudiants devront mener une campagne de communication auprès des enseignants et des étudiants de l'IUT pour faire connaître leur production.
+        </p>
         
       </div>
     </div>
@@ -346,6 +371,29 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
     </div>
   </div>
 
+<div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTV">
+       Web TV
+      </a>
+    </div>
+    <div id="collapseWebTV" class="accordion-body collapse">
+      <div class="accordion-inner">
+        <p>La Web TV institutionnelle du département SRC</p>
+        
+        <p>   
+        Toutes les informations sur la vie du département diffusés en ligne sous la forme d'une chaîne TV web, c'est la Web TV du département SRC.
+        Au fil de l'année, des reportages, des interviews, des news sur la vir interne du département faits par les étudiants et pour les étudiants.        
+        </p>
+        
+        <p>   
+        En première année, les étudiants doivent diffuser une émission pilote en amphithéâtre. En deuxième année, les infos sont diffuser au fil de l'eau sur les écrans de l'IUT et sur la page web de la web série.     
+        </p>
+        
+        
+      </div>
+    </div>
+  </div>
 
 
 
