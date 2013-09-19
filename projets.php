@@ -127,13 +127,34 @@ body {
   </div>
   <div class="accordion-group">
     <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
+       Air DJ (kinect)
+      </a>
+    </div>
+    <div id="collapseSix" class="accordion-body collapse">
+      <div class="accordion-inner">
+        <p>Realisation d'une performance artistique basée sur la captation de mouvements de danse en utilisant la kinect</p>
+
+		<p>Les enseignants du département SRC souhaitent organisée une exposition autour des arts multimédia. Cette exposition comprendra un espace photo, un espace 
+		graphisme 2D et un espace vidéo.</p>
+		
+		<p>Dans l'espace vidéo, nous souhaiterions créer un performance artistique basée sur la captation des mouvement du public. Les mouvements des spectateurs feront s'animer en rythmes des formes projetées. En plus de projections de formes, les attitutes et les mouvements du public pourront être utilisée pour modifier en rythme des musiques</p>
+
+		<p>Les étudiants devront donc avoir de bonnes connaissances en programmation et être prêt à apprendre un nouveau langage. Il devront également proposer des séquences graphiques à animer, voire composer la musique ou les paroles qui seront diffusées. Il faut également mettre en place cette performance artistique de bout en bout et en assurer la communication. C'est donc un projet très riche qui demande toutes les compétences acquises dans la formation SRC.</p>
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="accordion-group">
+    <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven">
-       Restaurant 'Le Cristal' a Frejus
+       Restaurant "Le Cristal" a Frejus
       </a>
     </div>
 <div id="collapseSeven" class="accordion-body collapse">
       <div class="accordion-inner">
-        <p>Campagne de communication pour le restaurant 'le Cristal' à Frejus</p>
+        <p>Campagne de communication pour le restaurant "le Cristal" à Frejus</p>
         
         <p>Le restaurant ‘Le Cristal’ est implanté à Fréjus, 1513 avenue De Lattre de Tassigny, et fait partie de l’ESAT (établissement et service d’aide par le travail) les Mimosas. Ce restaurant intègre et forme des travailleurs handicapés pour les faire accéder à une vie professionnelle.</p>
 
