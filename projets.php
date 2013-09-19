@@ -109,6 +109,7 @@ body {
     <div id="collapseOne" class="accordion-body collapse">
       <div class="accordion-inner">
         <p>Création d'une agence de réalisation audio-visuelle spécialisée dans la réalisation de formats courts. </p>
+        
         <p>Le groupe de projet doit réaliser de bout en bout un ou plusieurs court métrages dans l’année : 
            rédaction de scénario, recherche de lieux de tournage, organisation de castings, prise de son et 
            création originale des musiques, tournage, montage, etc... Il devra également en assurer la diffusion 
@@ -119,7 +120,7 @@ body {
            </p>
            <p>
            En seconde année, les étudiants devront également développer une application web. Ils développeront une
-           plateforme permettant à un public à définir de dépôser des courts métrages qui seront évalués par les interanutes.
+           plateforme permettant à un public à définir de dépôser des courts métrages qui seront évalués par les internautes.
            </p>
       </div>
     </div>
@@ -212,7 +213,7 @@ body {
         <p>Edition d'un mensuel institutionnel sur l'actualité du département SRC</p>
         <p>
            Du papier ! Une fois n'est pas coutume, ce projet est principalement un projet imprimé. L'agence de projet se transforme
-           en véritable bureau d'édition avec ses rédacteurs, ses pigistes, son chef rédactionnel, ses graphistes. L'objectif est de diffiser un
+           en véritable bureau d'édition avec son rédacteur en chef, ses journalistes, ses pigistes, ses graphistes. L'objectif est de diffiser un
            opus par mois entre les mois d'octobre et avril.
         </p>
         
