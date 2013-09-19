@@ -265,6 +265,24 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
       </div>
     </div>
   </div>
+  
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapse3D">
+       Film animation 3D
+      </a>
+    </div>
+    <div id="collapse3D" class="accordion-body collapse">
+      <div class="accordion-inner">
+        <p>Réaliser un film d'animation 3D</p>
+        
+                
+        
+      </div>
+    </div>
+  </div>
+
+  
    <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
