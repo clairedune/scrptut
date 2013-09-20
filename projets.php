@@ -190,6 +190,26 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
       </div>
     </div>
   </div>
+<div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseInsolite">
+       Ma région hors des sentiers battus
+      </a>
+    </div>
+<div id="collapseInsolite" class="accordion-body collapse">
+      <div class="accordion-inner">
+        <p>Présenter la région PACA loin des clichés. Vous vous transformés en reporters du petit Futé à l'affut de toutes les activités insolites dans la région.</p>
+        
+        <p>Vous proposerez un bouquet de reportages et des articles sur des sujets insolites. Ces reportages seront présenté sur un
+        site web dynamique et pourront alimenter la gazette et les WEB TV de l'IUT. Le fil rouge est de demander à l'internaute si l'activité décrite est vraie ou fausse et de le laisser
+        chercher l'endroit ou on peut la faire. </p>
+         
+         <p>
+         Ce projet demande donc à la fois de réaliser des reportages sur le terrain avec des partenaires et de tourner des reportages fictifs avec acteurs. 
+         </p>
+      </div>
+    </div>
+  </div>
 
 <div class="accordion-group">
     <div class="accordion-heading">
