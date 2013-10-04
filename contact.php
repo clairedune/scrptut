@@ -87,7 +87,7 @@ body {
 	</div>
 	<br>
 	<br>
-	<div class="row">
+	<!--<div class="row">
 	   <div class="span3">	
 			<h3>
 				Délégué aux groupes de SRC1
@@ -115,7 +115,7 @@ body {
 				<i class="icon-envelope"></i>  <a href="mailto:afrancoi@univ-tln.fr">afrancoi (at) univ-tln.fr</a><br>
 			</address>
 		</div>
-	</div>
+	</div>-->
 </div>
 
 </div> <!-- /container -->
