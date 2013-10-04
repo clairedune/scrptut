@@ -73,7 +73,7 @@ body {
 	<hr class="soften">
 	
 	<div class="span9" style="text-align:justify;">
-	<?php include("textRessources.php")?>
+	<?php include("contenu/textRessources.php")?>
 	</div>
 	
 	<div style="clear:both;">
