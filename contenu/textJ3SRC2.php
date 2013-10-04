@@ -1,4 +1,4 @@
-<H2>J3. Validation technique à mi-parcours</H2>
+<H2>J3. Soutenance à mi-parcours</H2>
  				
 		<div class ="alert alert-info">
 			Le jalon 3 est une soutenance dont la date est fixée. C'est une VALIDATION PILOTE.
@@ -21,15 +21,18 @@
  						
  						<H3>2. Formalisme</H3>
  						
+ 						<p>
+ 							Elle prendront soit la forme d'une soutenance unique avec des enseignants de tous les domaines présents, soit la forme d'une série de petites soutenances portant chacune sur un domaine bien spécifique avec deux enseignants spécialiste. 
+ 						</p>
+ 						
  						<div class ="alert alert-info"> 
- 							La soutenance sera divisée en deux parties : 10 minutes de présentation et 15 minutes de questions/réponses.
+ 							La forme de la présentation est libre. Dans ces soutenances, il sera laisser une grande part à la discussion.  
  						</div>
  						
  						 						
  						<p>
- 							La forme de la présentation est assez libre.
- 							
-							Vous devez vous appuyer sur des transparents conformes
+ 							 							
+							Vous pourrez vous appuyer sur des transparents conformes
 							 à la charte graphique du projet avec éventuellement 
 							 ajout de vidéos ou démonstration du produit sous sa forme actuelle.
  						</p>
@@ -72,63 +75,7 @@
 						 </ul>
 						 </ul>
 
-					 <H3>4. Composition du Jury</H3>
-					 
-					 <H4>1. Saint Raphaël</H4>		 
-					<p>Le jury est composés d'enseignants du département SRC dont les spécialités recouvrent toutes les matières au programme </p>					
-					<p>La composition du jury du jeudi 17 janvier pour les groupes de Saint Raphaël est la suivante : </p>
-					<ul>
-						<li>Alexandre François (réseau, gestion de projet, responsable des projets tuteurés en alternance)</li>
-						<li>Claire Dune (informatique, pilote des projets tuteurés)</li>
-						<li>Xavier Betourné (infographie)</li>
-						<li>Yann Bertacchini (communication)</li>
-						<li>Maamar Khaled (marketing)</li>
-						<li>Karim Adouane (audio visuel)</li>
-						
-					</ul>
-					
-					
-					 <br>
-					 
-					 <H4>2. Toulon</H4>
-					<p>La composition du jury du lundi 14 janvier pour les groupes de Toulon est la suivante : </p>
-					<ul>
-						<li>Nathalie Pessel (informatique, responsable des projets tuteurés à Toulon)</li>
-						<li>Claire Dune (informatique, pilote des projets tuteurés)</li>
-						<li>Philippe Lacoste (gestion de projet)</li>
-						
-					</ul>
- 
-					<H3>5. Ordre de passage</H3>		 
-					
-					<H4>1. Saint Raphaël</H4>		 
-					<p>Les soutenances des groupes de Saint Raphaël se dérouleront à Saint Raphaël selon le planning suivant : </p>
-					<div class ="alert alert-info">
-					<ul>
-						<li><b>8h00-8h30 </b>: Blyms - évènementiel avec un enfant, un quartier, la ville</li></li>
-						<li><b>8h30-9h00  </b>: Safeline - promotion de la slack line</li>
-						<li><b>9h00-9h30  </b>: Wild-Eye - promotion du tir sportif</li>
-						<li><b>9h30-10h00  </b>: Blops - Film d'animation 3D
-						<li><b>10h00-10h30  </b>: Ce Mardi Soir - Cinéclub</li>
-						<li><b>10h30-11h00  </b>: Les ptites actus - Web TV</li>
-						<li><b>11h00-11h30  </b>: Serecomhills</li>
-						<li><b>11h30-12h00  </b>: Sandbox - Court métrage</li>
-						<li><b>12h00-12h30  </b>: Etudes Handi - étudier avec un handicap </li>
-						<li><b>12h30-13h00  </b>: AL2 - promotion de l'alternance</li>
-					</ul>
-					</div>
-					<H4>2. Toulon</H4>
-					
-					<p>Les soutenances des groupes de Toulon se dérouleront à Toulon selon le planning suivant : </p>
-					<div class ="alert alert-info">
-					<ul>
-						<li><b>9h30 - 10h00  </b>: Organisation du festival SRC</li>
-						<li><b>10h10 - 10h40  </b>: Actualités sportives</li>
-						<li><b>10h50 - 11h20  </b>: Com'Unité Web</li>
-						<li><b>11h30 - 12h00  </b>: Com'Unité Com</li>
-					</ul>	 
-					</div>
-					<H3>6. Notation </H3>
+					 	<H3>4. Notation </H3>
 				
 <br>
 	<a class="btn btn-small" href="files/SRC2GrilleSoutenanceTechnique.doc">télécharger la grille de notation</a>
