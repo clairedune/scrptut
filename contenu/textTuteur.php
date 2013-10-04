@@ -3,7 +3,7 @@
 				Chaque agence a un tuteur, qui est un enseignant du département SRC. 
 				Il est désigné par le pilote de projet ou peut être démarché par les 
 				étudiants lors de la conception de l'expression du besoin. Le tuteur 
-				apporte son expérience dans la <b>réalisation du projet encadré</b>. 
+				apporte son expérience dans la <b>réalisation du projet tuteuré</b>. 
 				Il doit donc avoir les compétences techniques pour
 				encadrer la part majoritaire du projet.
 			</p>	
@@ -44,12 +44,15 @@
 						besoin en terme de matériel ou de financement) 
 						il doit contacter le pilote de projet.
 					</dd>
-				<dt>Evaluation (jalons et suivi)</dt>
-					<dd>Le tuteur n'évalue pas les livrables ni la soutenance. 
-					En revanche, il doit valider certains jalons du projet en rédigeant un 
-					court rapport (1/2 page) qui sera posté sur le gware. 
-					A la fin de l'année, il attribue une note de suivi. Voir la partie
-					<i>Livrables et documents</i>.<dd>
+				<dt>Evaluation </dt>
+					<dd><b>Note de suivi</b> : le tuteur n'évalue pas les livrables ni les soutenances du groupe qu'il encadre. 
+					En revanche,  il attribue une note de suivi à la fin de l'année. Elle peut être identique 
+					pour tous les étudiants du groupe ou individuelle.
+					</dd>
+					<dd><b>Corrections de livrables</b> : être tuteur engage à corriger un CDCF et un rapport de synthèse d'une  
+					    autre agence que la sienne.
+					</dd>
+					<dd><b>Jury de soutenance</b> : être tuteur engage à participer aux jurys de soutenance.
 					</dd>
 			</dl>
 
