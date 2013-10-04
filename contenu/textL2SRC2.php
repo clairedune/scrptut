@@ -1,5 +1,12 @@
 <H2>L2. Cahier des charges fonctionnel</H2>
 							
+	<div class ="alert alert-info">
+	<span class="label label-important">Nomenclature :</span> 
+
+	<p> 20131019_NOMPROJET_L2.pdf</p>
+	</div>						
+							
+							
 <H3>1. Fond</H3>
 <p>
 	Le cahier des charges fonctionnel définit les objectifs à atteindre et vise à bien cadrer les différentes missions à mener dans le projet. Vous devez reformuler les besoins du projet et le situer dans son contexte. </p>
@@ -16,9 +23,9 @@
 
 <H4>Un exemple de plan (inspiré de la norme AFNOR x50-151)</H4>
 
-<p>Bientôt un plan type pour votre cahier des charges fonctionnel à télécharger.</p>
+<p>Vous trouverez ici un exemple de plan pour votre cahier des charges fonctionnel à télécharger. Dans la suite, vous trouverez des exemples de cahiers des charges. Attention, il ne sont pas parfait, tenez compte des remarques ajoutées.</p>
 
-<!--<a class="btn btn-primary btn-small" href="files/SRC2PlanCDCFAFNOR.doc">télécharger le plan type</a>-->
+<a class="btn btn-primary btn-small" href="files/SRC2PlanCDCFAFNOR.doc">Télécharger le plan type</a>
 
 
 

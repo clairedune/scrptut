@@ -375,20 +375,20 @@ body {
 					Notice des livrables SRC2 <small> indications et grilles de notation</small>
 			    </h1>
 			    
-			    <div class= "span7" style="text-align:justify;"> 
+			    <div class= "span8" style="text-align:justify;"> 
 
 			    	<div class="tabbable ">
   						<ul class="nav nav-pills">
   							<li class="active"><a href="#src2L1" data-toggle="tab">L1</a></li>
   							<li ><a href="#src2J1" data-toggle="tab"><i>J1</i></a></li>
-    						<li><a href="#src2L2" data-toggle="tab">L2</a></li>
+    						<li><a href="#src2L2" data-toggle="tab">CDC</a></li>
     						<li><a href="#src2J2" data-toggle="tab"><i>J2</i></a></li>
-    						<li><a href="#src2L3" data-toggle="tab">L3</a></li>
-							<li><a href="#src2J3" data-toggle="tab"><i>J3</i></a></li>
-							<li><a href="#src2L4" data-toggle="tab">L4</a></li>
-							<li><a href="#src2J4" data-toggle="tab"><i>J4</i></a></li>
-							<li><a href="#src2L5" data-toggle="tab">L5</a></li>
-							<li><a href="#src2J5" data-toggle="tab"><i>J5</i></a></li>
+    				<!--		<li><a href="#src2L3" data-toggle="tab">Sout. 1/2</a></li>-->
+							<li><a href="#src2J3" data-toggle="tab"><i>Sout. 1/2</i></a></li>
+							<li><a href="#src2L4" data-toggle="tab">Synthèse</a></li>
+							<li><a href="#src2J4" data-toggle="tab"><i>J3</i></a></li>
+							<li><a href="#src2L5" data-toggle="tab">Clé</a></li>
+							<li><a href="#src2J5" data-toggle="tab"><i>Sout. 2/2</i></a></li>
 							<li><a href="#src2CR" data-toggle="tab">CR</a></li>
 						    
 
@@ -484,7 +484,7 @@ body {
    				</div><!--fin div span 7-->
 			    
 			    
-			    <div class= "span4">
+			    <div class= "span3">
 	            	<div class="alert alert-info">
 						
 						<table class="table table-striped table-condensed " style ="font-size:11px;">

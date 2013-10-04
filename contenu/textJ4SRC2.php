@@ -1,4 +1,4 @@
-<H2>J4. Validation des réalisations</H2>
+<H2>J3. Validation des réalisations</H2>
 
 <div class="alert alert-info">
 Ce quatrième jalon est un jalon LIBRE (dans la limite de la plage de temps donnée dans le calendrier). 
