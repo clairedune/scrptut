@@ -73,7 +73,7 @@ body {
 	
 	<div class="span6" style="text-align:justify;">
 	<h2>Tuteur</h2>
-	<?php include('textTuteur.php');?>
+	<?php include('contenu/textTuteur.php');?>
 	</div>
 
 	<div class="span3 offset1" style="text-align:justify;">
