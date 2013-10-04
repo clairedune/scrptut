@@ -76,7 +76,7 @@ body {
     <li class="active"><a href="#projets" data-toggle="tab">Tous les projets</a></li>
     <li><a href="#src1" data-toggle="tab">SRC1</a></li>
 		<li><a href="#src2" data-toggle="tab">SRC2</a></li>
-		<li><a href="#al2" data-toggle="tab">AL2</a></li>
+		<!--<li><a href="#al2" data-toggle="tab">AL2</a></li>-->
 	  </ul>
     
 		
@@ -104,7 +104,7 @@ body {
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTri">
-			Trier à l'université (PES)
+			Trier à l'université 
       </a>
     </div>
     <div id="collapseTri" class="accordion-body collapse">
@@ -126,7 +126,7 @@ body {
     <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseMoon">
-       Spectacle "Moon can dance" (MR)
+       Spectacle "Moon can dance" 
       </a>
     </div>
     <div id="collapseMoon" class="accordion-body collapse">
@@ -148,7 +148,7 @@ body {
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
-       Performance artistique air DJ (kinect) (CD-KAD)
+       Performance artistique avec une kinect
       </a>
     </div>
     <div id="collapseSix" class="accordion-body collapse">
@@ -169,7 +169,7 @@ body {
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven">
-       Restaurant "Le Cristal" a Frejus (YB)
+       Restaurant "Le Cristal" a Frejus 
       </a>
     </div>
 <div id="collapseSeven" class="accordion-body collapse">
@@ -235,7 +235,7 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
-        Courts métrages (KAD)
+        Courts métrages 
       </a>
     </div>
     <div id="collapseOne" class="accordion-body collapse">
@@ -285,7 +285,7 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
-       Web série (KAD)
+       Web série 
       </a>
     </div>
     <div id="collapseTwo" class="accordion-body collapse">
@@ -310,7 +310,7 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapse3D">
-       Film animation 3D (SAD)
+       Film animation 3D 
       </a>
     </div>
     <div id="collapse3D" class="accordion-body collapse">
@@ -523,19 +523,54 @@ correspondant et pour cela, réfléchir à sa communication off et on line.
       </thead>
       <tbody>
 	<tr>
-	  <td>Projet1</td>
-	  <td>Tuteur1</td>
-	  <td>Etudiant1 Etudiant 2 Etudiant 3</td>
+	  <td>Réalisation de clip vidéo (Clip)</td>
+	  <td>C. Bréandon</td>
+	  <td>Moriset, Lino, Palmieri, Mauroy, Proccacci, Perez</td>
 	</tr>
 	<tr>
-	  <td>Projet2</td>
-	  <td>Tuteur2</td>
-	  <td>Etudiant1 Etudiant 2 Etudiant 3</td>
+	  <td>Réalisation de Court-Metrages (CourtMetrage)</td>
+	  <td>K. Adouane</td>
+	  <td>Kobalava, Lonegro, Kirchner, Cutaïa, Desmoulins, Pellerei</td>
 	</tr>
 	<tr>
-	  <td>Projet3</td>
-	  <td>Tuteur3</td>
-	  <td>Etudiant1 Etudiant 2 Etudiant 3</td>
+	  <td>Moon can dance (Danse)</td>
+	  <td>M. Raynaud</td>
+	  <td>Saidi, Jardin, Knipping, Bracco, Boniface, Bonfils</td>
+	</tr>
+	<tr>
+	  <td>La Gazette du département (Gazette)</td>
+	  <td>X. Bétourné</td>
+	  <td>Couderc*, Esteve, German, Delhommelle, Rossi, Migliore</td>
+	</tr>
+	<tr>
+	  <td>Jeu de rôle grandeur nature (GN)</td>
+	  <td>J.-R. Tozza</td>
+	  <td>Audibert, Coignon, Teisserenc, Drouet, Grandmaison</td>
+	</tr>
+	<tr>
+	  <td>Ma région hors des sentiers battus (Insolite)</td>
+	  <td>N. Iscariot</td>
+	  <td>Boucher, Donati, Gagliolo, Choisy, Plantin*, Espinisa</td>
+	</tr>
+	<tr>
+	  <td>Performance artistique avec une kinect (Kinect)</td>
+	  <td>C. Dune</td>
+	  <td>Chanoyan*, Renard, Gervais, Michel, Viano, Enfoux</td>
+	</tr>
+	<tr>
+	  <td>TV Show interactif (TVshow)</td>
+	  <td>N. Pessel</td>
+	  <td>Taghouti, Mouchel, Wrobel, Julian, Torre, Louis</td>
+	</tr>
+	<tr>
+	  <td>Réalisation d'un web documentaire (WebDoc)</td>
+	  <td>Y. Bertacchini</td>
+	  <td>Louvain, Brignolles, Bailly, Holer, Tabart, Ledouble</td>
+	</tr>
+	<tr>
+	  <td>Réalisation d'une web série (WebSerie)</td>
+	  <td>K. Adouane</td>
+	  <td>Rezgui, Puiroux, Adamo, Armando, Fuselier, Fouccaud</td>
 	</tr>
 	 </tbody>
       <tfoot>
