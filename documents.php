@@ -253,43 +253,43 @@ body {
 						<!-- Sous-Section src1L1
 						================================================== -->
 						<div class="tab-pane active" id="src1L1">
-      					<?php include('textL1SRC1.php') ?>
+      					<!--<?php include('textL1SRC1.php') ?>-->
    						</div><!--fin sous section src1L1-->
    						<!-- Sous-Section src1J1
 						================================================== -->
 						<div class="tab-pane" id="src1J1">
-      					<?php include('textJ1SRC1.php') ?>
+      					<!--<?php include('textJ1SRC1.php') ?>-->
    						</div><!--fin sous section src1J1-->
     					
    						<!-- Sous-Section src1L2
    						================================================== -->
     					<div class="tab-pane" id="src1L2">
-      					<?php include('textL2SRC1.php') ?>
+      					<!--<?php include('textL2SRC1.php') ?>-->
     					</div><!--fin sous section src1L2-->
 	 					
 	 					<!-- Sous-Section src1L3
 						================================================== -->
  						<div class="tab-pane" id="src1L3">
- 						<?php include('textL3SRC1.php') ?>
+ 						<!--<?php include('textL3SRC1.php') ?>-->
     					</div><!--fin sous section src1L3-->
     					
     					<!-- Sous-Section src1L4
 						================================================== -->
  						<div class="tab-pane" id="src1L4">
- 						<?php include('textL4SRC1.php') ?>
+ 						<!--<?php include('textL4SRC1.php') ?>-->
     					</div><!--fin sous section src1L4-->
     					
     					<!-- Sous-Section src1J2
 						================================================== -->
 	 					<div class="tab-pane" id="src1J2">
-      					<?php include('textJ2SRC1.php') ?>
+      					<!--<?php include('textJ2SRC1.php') ?>-->
     					</div><!--fin sous section src1L4-->
     					
     					
     					<!-- Sous-Section src1CR
 						================================================== -->
 	 					<div class="tab-pane" id="src1CR">
-      					<?php include('textCR.php'); ?>
+      					<!--<?php include('textCR.php'); ?>-->
     					</div><!--fin sous section src1CR-->
     					    					
     				</div><!--fin tab content-->
