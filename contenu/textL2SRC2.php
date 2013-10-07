@@ -48,7 +48,7 @@
    <p>
    	Par ailleurs, vous devrez respecter les règles indiquées dans le documents suivant 
    	
-   	<a class="btn btn-primary btn-small" href="files/SRC2CDFCRegles.doc">Règles de mise en forme</a>
+   	<a class="btn btn-primary btn-small" href="files/SRC2CDCFRegles.doc">Règles de mise en forme</a>
 
             	<!--
             	<ul>
