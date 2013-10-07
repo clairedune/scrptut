@@ -427,7 +427,7 @@ body {
     					<!-- Sous-Section src2L4
 						================================================== -->
 	 					<div class="tab-pane" id="src2L4">
-      					<?php include('textL4SRC2.php')?>
+      					<?php include('contenu/textL4SRC2.php')?>
     					</div><!--fin sous section src2L4-->
 
     					<!-- Sous-Section src2L4
