@@ -75,7 +75,7 @@ body {
   		<ul class="nav nav-tabs">
     		<li class="active"><a href="#tous" data-toggle="tab">Pour tous</a></li>
     		<li><a href="#src1" data-toggle="tab">SRC 1</a></li>
-    		<li><a href="#src2" data-toggle="tab">SRC 2 / AL 2</a></li>
+    		<li><a href="#src2" data-toggle="tab">SRC 2</a></li>
   		</ul>
   		
   		<div class="tab-content">
