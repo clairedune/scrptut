@@ -99,7 +99,7 @@ body {
 	<a class="btn btn-small" href="files/SRC2GrilleCDCF.doc" style="width:95%;">
 		télécharger la grille du CDCF <br> (L2)</a><br><br><br>
 		
-	<a class="btn btn-small" href="files/SRC2GrilleSynthèse.doc" style="width:95%;">
+	<a class="btn btn-small" href="files/SRC2GrilleSynthese.doc" style="width:95%;">
 		télécharger la grille du dossier de synthèse (L4) </a><br>
 	
 	</div>
