@@ -52,6 +52,7 @@ body {
 				<li><a href="./tuteur.php">Tuteur</a></li>				
      			<li><a href="./ressources.php">Ressources</a></li>				
 				<li><a href="./contact.php">Contacts</a></li>
+				<li><a href="./tuto.php">Tutos</a></li>
 			</ul>
 			</div><!--/.nav-collapse -->
 		</div>
