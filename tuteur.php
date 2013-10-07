@@ -85,7 +85,7 @@ body {
 	<h3>SRC1</h3>
 	<div class="well">
 	
-	<a class="btn btn-small" href="files/SRC1GrilleCahierFonctionnalités.doc" style="width:95%;">
+	<a class="btn btn-small" href="files/SRC1GrilleCahierFonctionnalites.doc" style="width:95%;">
 		télécharger la grille du CDCF <br> (L2)</a><br>
 
 	
