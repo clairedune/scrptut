@@ -156,12 +156,13 @@ et savoir-faire acquis au cours des deux années d'étude au département SRC, d
 
 <!-- Footer
       ================================================== -->
+      <div style="clear:both;">
       <footer class="footer">
         <p class="pull-right"><a href="#">Back to top</a></p>
         <p>CSS designed and built with Twitter bootsrap <a href="http://twitter.github.com/bootstrap/" target="_blank">@bootstrap</a>
         <p>Icons from <a href="http://glyphicons.com">Glyphicons Free</a>, licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</p>
       </footer>
-
+</div>
 
 
 
