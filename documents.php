@@ -197,19 +197,29 @@ body {
 			    
 			    
 			    
-			    <div class="span4 offset1">
+		  <div class="span4 offset1">
 			    <h1>
 					Liens utiles 
 			    </h1>
 			    <br>
+			    
 			    <div class="span3">
 			    <div class="well">
   					<h2><a href="http://serecom.univ-tln.fr/gware">Gware</a></h2>
   					<br>
   					<div style="height:80px;">
   						L'espace de travail du gware est votre lieu d'échange avec les responsables de projets et votre tuteur. 
-  					</div>
-  					
+  					</div>	
+				</div>
+			    </div>
+			    
+			    <div class="span3">
+			    <div class="well">
+  					<h2><a href="http://serecom.univ-tln.fr/dotproject">DotProject</a></h2>
+  					<br>
+  					<div style="height:80px;">
+  						L'application DotProject est votre outil de gestion de projet en ligne.
+  					</div>	
 				</div>
 			    </div>
 			    
@@ -219,17 +229,6 @@ body {
   					<br>
   					<div style="height:80px;">
   					Retrouvez toute l'actualité des projets tuteurés SRC et les projets des années passées sur la plateforme Mozaik.</div>
-  					
-				</div>
-			    </div>
-			    </div>
-			    
-			    <div class="span3">
-			    <div class="well">
-  					<h2><a href="http://serecom.univ-tln.fr/dotproject">DotProject</a></h2>
-  					<br>
-  					<div style="height:80px;">
-  					Votre outil de gestion de projet en ligne.</div>
   					
 				</div>
 			    </div>
