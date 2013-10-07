@@ -224,10 +224,10 @@ body {
  			
 			<h2>Le tuteur</h2>
 			
-			<?php include('textTuteur.php');?>
+			<?php include('contenu/textTuteur.php');?>
 			
 		    <h2>Les ressources</h2>
-			<?php include('textRessources.php');?>
+			<?php include('contenu/textRessources.php');?>
 		</div><!-- Fin Div de gauche ============================================-->
 	
 		<div class="span6">
@@ -361,24 +361,8 @@ body {
 			</h3>
 			
 			<p>
-			 L'utilisation d'un outil de gestion de projet est vivement recommandée. Cependant, le choix de l'outil est laissé à chaque agence. Voici quelques outils gratuits en ligne :
-			 <ul>
-			 <li><a href="http://www.teamlab.com/fr/">teamlab</a></li>
-			 <li><a href="http://http://www.dotproject.net/">dotproject</a></li>
-			 <li><a href="http://www.phprojekt.com/">phpProjekt</a></li>
-			 <li><a href="http://www.egroupware.org/">egroupeware</a></li>
-			 <li><a href="http://http://www.agora-project.net/index.php?trad=francais">agora projetct</a></li>
-			 </ul> 
+			 L'utilisation de l'outil <a href="serecom.univ-tln.fr/dotproject">DotProject</a> est obligatoire.
 			</p>
-			Vous trouverez une liste plus complète sur <a href="http://fr.wikipedia.org/wiki/Comparaison_des_logiciels_de_gestion_de_projet">la page wikipédia dédiée</a>.
-			
-			<p>
-			 Quelque soit l'outil choisi, les agences devront être en mesure de
-			 gérer le reporting de leur projet (voir <a href="#reporting" data-toggle="tab">la page <em>reporting</em></a>).
-			</p>
-			
-			
-			
 			
 			
 			</div><!-- /Div de droite ============================================-->
