@@ -224,6 +224,17 @@ body {
 			    </div>
 			    </div>
 			    
+			    <div class="span3">
+			    <div class="well">
+  					<h2><a href="http://serecom.univ-tln.fr/dotproject">DotProject</a></h2>
+  					<br>
+  					<div style="height:80px;">
+  					Votre outil de gestion de projet en ligne.</div>
+  					
+				</div>
+			    </div>
+			    </div>
+			    
 			    
     		</div>
     		
