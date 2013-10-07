@@ -80,13 +80,7 @@ body {
 	<hr class="soften">
 	</div>
 	
-	<div class="span9" style="text-align:justify;">
-	 Pour connaître les coordonnées des étudiants et des enseignants 
-	 ressources vous pouvez consulter la <a href="serecom.univ-tln.fr/gware">liste des utilisateurs
-	 du gware</a>. Si la personne recherchée ne s'y trouve pas, contacter 
-	 <a href="mailto:claire.dune@univ-tln.fr">le pilote des projets</a>.
-	</div>
-	
+		
 <div class="row">
 <div class="span5">
 <div class="well">
