@@ -82,6 +82,8 @@ body {
     <li class="active"><a href="#info" data-toggle="tab">Mon compte</a></li>
     <li><a href="#tache" data-toggle="tab">Tâches</a></li>
 	<li><a href="#reporting" data-toggle="tab">Reporting</a></li>
+	<li><a href="#tuteur" data-toggle="tab">Tuteur</a></li>
+
     </ul>
     <?php  require_once("playSWF.php")?>
 
@@ -117,10 +119,10 @@ body {
 
 		</div><!-- /Tache>-->
 <!-- Reporting ================================================== -->
-		<div class="tab-pane" id="reporting">
+		<div class="tab-pane" id="tuteur">
 			<h1>Tuteur <small> utilisation du gware par les tuteurs</small></h1>
 			
-			<H3> Comment rensigner mon suivi ?</H3>
+			<H3> Comment renseigner le suivi des groupes de projet?</H3>
 			<?php insertSWF('video/suivi_tuteur.swf'); ?>
 
 		</div><!-- /Tache>-->
