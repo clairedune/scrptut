@@ -116,6 +116,14 @@ body {
 			<?php insertSWF('video/connexion_tache.swf'); ?>
 
 		</div><!-- /Tache>-->
+<!-- Reporting ================================================== -->
+		<div class="tab-pane" id="reporting">
+			<h1>Tuteur <small> utilisation du gware par les tuteurs</small></h1>
+			
+			<H3> Comment rensigner mon suivi ?</H3>
+			<?php insertSWF('video/suivi_tuteur.swf'); ?>
+
+		</div><!-- /Tache>-->
 
 
 	</div>
