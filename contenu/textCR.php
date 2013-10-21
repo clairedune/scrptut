@@ -1,5 +1,12 @@
 <H2>CR. Compte-rendus mensuels</H2>
 
+<div class ="alert alert-info">
+	<span class="label label-important">Nomenclature :</span> 
+
+	<p> AnneeMoisJour_NOMPROJET_CR.pdf</p>
+	</div>	
+
+
 <div class="alert alert-info">
 Les compte rendu mensuels seront composés de trois éléments rassemblés dans le même document PDF :
 <ul> 
