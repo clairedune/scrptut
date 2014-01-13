@@ -335,14 +335,19 @@ body {
 								
 									
 								<tr>
-									<td> ??/05 </td>
-									<td> L2 </td>
-									<td> 3 </td>
+									<td> 11/04 </td>
+									<td> L2 (Draft)</td>
+									<td> </td>
 									<td> Date_Projet_L2</td>
 								</tr>
-														
 								<tr>
-									<td> ??/06 </td>
+									<td> 1/06 </td>
+									<td> L2 (version finale)</td>
+									<td> 3 </td>
+									<td> Date_Projet_L2</td>
+								</tr>				
+								<tr>
+									<td> 1/06 </td>
 									<td> L3</td>
 									<td> 3 </td>
 									<td> Date_Projet_L3</td>
