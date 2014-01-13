@@ -1,11 +1,14 @@
 <H2>J1. Validation de la fiche projet</H2>
-
+<br>
+<a class="btn btn-small" href="files/fichetype.doc">télécharger la fiche projet</a>
+<br>
+<br>
+<p>
+    Suite à la création du groupe, les étudiants vont rédiger une fiche projet qui décrira synthétiquement les objectifs de leur projet. Cette fiche sera validée par le pilote des projets et le tuteur avant que les étudiants ne se lancent dans les réalisations.
+</p>
 
 <div class="alert alert-info">
-
-Ce premier Jalon est LIBRE (dans les limites de la plage de temps fixée par le calendrier). C'est la validation de la fiche projet par les responsables des projets.
-C'est donc une VALIDATION PILOTE. 
-
+Ce premier Jalon est LIBRE (dans les limites de la plage de temps fixée par le calendrier). C'est la validation de la fiche projet par les responsables des projets.C'est donc une VALIDATION PILOTE. 
 </div>
 
 

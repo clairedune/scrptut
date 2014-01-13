@@ -1,4 +1,4 @@
-<H2>L3. Site internet de présentation </H2>
+<H2>L2. Site internet de présentation </H2>
 
 <div class="alert alert-info">Tout au long de l'année, les étudiants de SRC1 devront développé un site
 internet pour présenter le concept de leur projet</div>

@@ -61,13 +61,13 @@ body {
 
 <!-- Masthead
 ================================================== -->
-<header class="jumbotron subhead" id="overview">
+<div class="jumbotron subhead" id="overview">
 		<h1>Projets tuteurés SRC </h1>
 		<p class="lead">Organisation et principes d'évaluation des projets tuteurés<br> au
 			département Services et Réseaux de Communication de Saint-Raphaël.
 		</p>
 		<hr class="soften">
-</header>
+</div>
 
 
 <div class="span4">

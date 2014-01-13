@@ -91,7 +91,7 @@ body {
 			    <br>
 			    
 			    <div class="alert alert-info" style="text-align:justify;">
-			     Tous les livrables et les documents relatifs à votre projet sont à déposer sur votre espace de travail sur le <a href="http://serecom.univ-tln.fr">gware</a>. <span class="label label-important">Important</span> Aucun document ne doit être imprimé à l'exception de la fiche projet et du livret de soutenance. 
+			     Tous les livrables et les documents relatifs à votre projet sont à déposer sur votre espace de travail sur le <a href="http://serecom.univ-tln.fr">gware</a>. 
 			     
 			    </div>
 			    
@@ -106,9 +106,9 @@ body {
   						Convention de projet à faire signer au client (ou IUT SRC ). 
   					</div>
   					<p>
-    				<a class="btn btn-primary" href="files/convention.doc">
+    				<!--<a class="btn btn-primary" href="files/convention.doc">
       				Télécharger la convention
-    				</a>
+    				</a>--> <i>A venir</i>
   					</p>
 				</div>
 			    </div>
@@ -263,43 +263,43 @@ body {
 						<!-- Sous-Section src1L1
 						================================================== -->
 						<div class="tab-pane active" id="src1L1">
-      					<!--<?php include('textL1SRC1.php') ?>-->
+      					<?php include('contenu/textL1SRC1.php') ?>
    						</div><!--fin sous section src1L1-->
    						<!-- Sous-Section src1J1
 						================================================== -->
 						<div class="tab-pane" id="src1J1">
-      					<!--<?php include('textJ1SRC1.php') ?>-->
+      					<?php include('contenu/textJ1SRC1.php') ?>
    						</div><!--fin sous section src1J1-->
     					
    						<!-- Sous-Section src1L2
    						================================================== -->
     					<div class="tab-pane" id="src1L2">
-      					<!--<?php include('textL2SRC1.php') ?>-->
+      					<?php include('contenu/textL3SRC1.php') ?>
     					</div><!--fin sous section src1L2-->
 	 					
 	 					<!-- Sous-Section src1L3
 						================================================== -->
  						<div class="tab-pane" id="src1L3">
- 						<!--<?php include('textL3SRC1.php') ?>-->
+ 						<?php include('contenu/textL2SRC1.php') ?>
     					</div><!--fin sous section src1L3-->
     					
     					<!-- Sous-Section src1L4
 						================================================== -->
  						<div class="tab-pane" id="src1L4">
- 						<!--<?php include('textL4SRC1.php') ?>-->
+ 						<?php include('contenu/textL4SRC1.php') ?>
     					</div><!--fin sous section src1L4-->
     					
     					<!-- Sous-Section src1J2
 						================================================== -->
 	 					<div class="tab-pane" id="src1J2">
-      					<!--<?php include('textJ2SRC1.php') ?>-->
+      					<?php include('contenu/textJ2SRC1.php') ?>
     					</div><!--fin sous section src1L4-->
     					
     					
     					<!-- Sous-Section src1CR
 						================================================== -->
 	 					<div class="tab-pane" id="src1CR">
-      					<!--<?php include('textCR.php'); ?>-->
+      					<?php include('contenu/textCR.php'); ?>
     					</div><!--fin sous section src1CR-->
     					    					
     				</div><!--fin tab content-->
@@ -320,14 +320,14 @@ body {
 						
 							<tbody>
 								<tr>
-									<td> 05/02 </td>
+									<td> 17/01 </td>
 									<td> L1</td>
 									<td> </td>
-									<td> 20130205_Projet_L1</td>
+									<td> 13-01-17_Projet_L1</td>
 								</tr>
 								
 								<tr>
-									<td> [janvier]</td>
+									<td> 31/01</td>
 									<td> J1</td>
 									<td> </td>
 									<td> Date_Projet_J1</td>
@@ -335,25 +335,25 @@ body {
 								
 									
 								<tr>
-									<td> 04/05 </td>
+									<td> ??/05 </td>
 									<td> L2 </td>
 									<td> 3 </td>
-									<td> 20130504_Projet_L2</td>
+									<td> Date_Projet_L2</td>
 								</tr>
 														
 								<tr>
-									<td> 01/06 </td>
+									<td> ??/06 </td>
 									<td> L3</td>
 									<td> 3 </td>
-									<td>20130601_Projet_L3</td>
+									<td> Date_Projet_L3</td>
 								</tr>
 								
 								
 								<tr>
-									<td> 10-11/06 </td>
+									<td> ??/06 </td>
 									<td> L4<br>J2 </td>
 									<td> 2<br>5<br></td>
-									<td> support des réalisations <br>soutenance</td>
+									<td> Réalisation <br>Soutenance</td>
 								</tr>
 								
 									
@@ -361,7 +361,7 @@ body {
 									<td> 01/* </td>
 									<td> CR</td>
 									<td> 2 </td>
-									<td> 2012*01_Agence_CR </td>
+									<td> Date_Projet_CR </td>
 								</tr>
 								
 								

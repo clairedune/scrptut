@@ -1,9 +1,24 @@
 <H2>L1. Composition des agences </H2>
 
 <p> 
-	Les étudiants ont un mois pour constituer leurs agences, démarcher un 
- 	tuteur et fixer le thème général de leur projet sans rentrer dans les détails. 
+	La premiere étape du projet consiste à constituer les agences, démarcher un 
+ 	tuteur et fixer le thème général de projet sans rentrer dans les détails. 
  </p>
+ 
+ <div class="alert alert-info">
+ 	Toutes ces informations (noms des étudiants, rôle, nom du tuteur, thème du projet) seront consignées dans un document 
+ 	qui constituent le premier livrable L1. 	Cette fiche devra être visée par le tuteur et déposée sur le gware, dans votre répertoire.	
+</div>
+
+
+
+<h3> La Déclaration de groupe</h3>
+
+<p>
+<!--	L'expression du besoin est consignée de manière synthétique dans une <b>fiche projet</b>. La fiche doit être rédigée par l'agence de projet et le tuteur. Si un client réél existe, il peut être cité dans la fiche. <b>Elle doit être validée par le responsable	des projets avant que l'agence ne débute le projet (voir jalon 1)</b>. En d'autres termes, tant que la fiche projet n'est pas validée, 	le seul travail de l'agence est de travailler à une nouvelle version de cette fiche jusqu'à l'obtention de sa validation. -->
+
+Les étudiants doivent constituer des agences de 4 à 6 personnes d'une même promotion. Une agence est non divisible. La séparation des membres de l'agence met fin au projet.
+</p>
 
 <p>
 	Les étudiants peuvent au choix, reprendre un projet existant ou créer une nouvelle fiche projet.
@@ -14,29 +29,13 @@
  	avec le projet visé. Vous devez penser à intégrer toutes les compétences nécessaires. 
  	Ne fonctionnez pas que par affinité, réfléchissez aux tâches à effectuer et aux compétences qu'elles requièrent 
  	</p>
- 
- <div class="alert alert-info">
- 	Toutes ces informations (noms des étudiants, rôle, nom du tuteur, thème du projet) seront consignées dans un document 
- 	qui constituent le premier livrable L1 : la fiche projet.
- 	Cette fiche devra être visée par le tuteur et déposée sur le gware.	
-</div>
 
-
-
-<h3> La Fiche projet</h3>
-<br>
-<a class="btn btn-small" href="files/fichetype.doc">télécharger la fiche projet</a>
-<br>
-<br>
 <p>
-	L'expression du besoin est consignée de manière synthétique dans une <b>fiche projet</b>. La fiche doit 
-	être rédigée par l'agence de projet et le tuteur. Si un client réél existe, il peut être cité dans la fiche. <b>Elle doit être validée par le responsable
-	des projets avant que l'agence ne débute le projet (voir jalon 1)</b>. En d'autres termes, tant que la fiche projet n'est pas validée, 
-	le seul travail de l'agence est de travailler à une nouvelle version de cette fiche jusqu'à l'obtention de sa validation. 
+ Le choix du tuteur est fait par le pilote des projets. Cependant, les étudiants peuvent proposer le nom d'un enseignant.
 </p>
 	
 <p>
-Les thèmes de projet, doivent respecter les contraintes suivantes :
+Les projets, doivent être en relation avec les thèmes de l'année et respecter les contraintes suivantes :
 
 <ul>
 	<li><b>Recouvrir l'ensemble des composantes de la formation</b></li>

@@ -1,4 +1,4 @@
-<H2>L2. Cahier des charges fonctionnel</H2>
+<H2>L3. Cahier des charges fonctionnel</H2>
 							
 <H3>1. Fond</H3>
 <p>
