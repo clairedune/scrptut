@@ -65,8 +65,7 @@ ou au pilote.
 <H3>2. Suivi des heures </H3>
 
 <p>
-Pour vous donner une idée, pour faire 150 heures de projet sur l'année, un étudiant doit travailler un peu plus de 20 par mois, donc un peu
-plus de 5h00 par semaine.
+Pour vous donner une idée, pour faire 100 heures de projet sur le semestre, un étudiant doit travailler un peu plus de 20 par mois, donc un peu plus de 5h00 par semaine.
 </p>
 
 <div class="alert alert-info">
@@ -97,6 +96,14 @@ de chacun pour que cela soit plus visuel.</p>
 <p>
  Dans ce document, vous détaillerez également l'utilisation de ressources enseignantes ou étudiante.
 </p>
+
+<br>
+<p>Les SRC1 peuvent utiliser le document suivant</p>
+<a class="btn btn-small" href="files/planningtype.xls">télécharger le planning type</a>
+<br>
+<p>Les SRC2 doivent <b>obligatoirement utiliser le DotProject</b> </p>
+
+
 
 <H3>3. Compte rendus de réunion</H3>
 
