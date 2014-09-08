@@ -29,6 +29,7 @@ En plus de vos supports de soutenance, vous devrez remettre toutes vos productio
 <li>un répertoire REALISATIONS contenant :</li>
 <ul>
 <li>un sous répertoire WEB contenant votre site web : sources et base de données</li>
+<li><b>Dans ce sous répertoire WEB, vous ajouterez un screaning plein écran de votre site web, réalisé par exemple avec Jing sous Mac ou Camtasia sous Windows.</b></li>
 <li>un sous répertoire COMMUNICATION contenant votre campagne de communication : affiche, publicité, cartes de visites etc</li>
 <li>un sous répertoire VIDEO contenant les vidéos résultant de votre projet</li>
 <li>un sous répertoire DIVERS contenant tous les documents que vous jugez utile pour qu'un groupe reprenne votre projet l'an prochain (doc technique sur votre projet, tutoriels sur des logiciels).</li>

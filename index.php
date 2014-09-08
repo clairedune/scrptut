@@ -30,7 +30,7 @@ body {
 <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">-->
 </head>
 
-<body data-spy="scroll" data-target=".subnav" data-offset="50">
+<!--<body data-spy="scroll" data-target=".subnav" data-offset="50">
 <div class="navbar navbar-fixed-top">
 	<div class="navbar-inner">
 		<div class="container">
@@ -51,25 +51,21 @@ body {
 				<li><a href="./contact.php">Contacts</a></li>
 				<li><a href="./tuto.php">Tutos</a></li>
 			</ul>
-			</div><!--/.nav-collapse -->
-		</div>
+			</div>		</div>
 	</div>
-</div>
+</div>-->
 
 
 <div class="container">
-
-<!-- Masthead
-================================================== -->
 <div class="jumbotron subhead" id="overview">
 		<h1>Projets tuteurés SRC </h1>
-		<p class="lead">Organisation et principes d'évaluation des projets tuteurés<br> au
-			département Services et Réseaux de Communication de Saint-Raphaël.
+		<p>
+		   Ce site est fermé pour l'instant. Merci de vous référer à vos cours de gestion de projet.
 		</p>
 		<hr class="soften">
 </div>
 
-
+<!--
 <div class="span4">
 <img src="images/organisation.png"\>
 </div>
@@ -106,7 +102,7 @@ et savoir-faire acquis au cours des deux années d'étude au département SRC, d
 	</div>
 </div>
 </div>
-</div> <!-- /bloc principal-->
+</div> 
 
 <div style="clear:both;">
 <hr class="soften">
@@ -151,12 +147,7 @@ et savoir-faire acquis au cours des deux années d'étude au département SRC, d
 			    
 	</div>
  
-</div> <!-- /container -->
-
-
-
-<!-- Footer
-      ================================================== -->
+</div> 
       <div style="clear:both;">
       <footer class="footer">
         <p class="pull-right"><a href="#">Back to top</a></p>
@@ -167,10 +158,6 @@ et savoir-faire acquis au cours des deux années d'étude au département SRC, d
 
 
 
-<!-- Le javascript
-================================================== -->
-
-<!-- Placed at the end of the document so the pages load faster -->
 	<script src="bootstrap/js/jquery.js"></script>
 	<script src="bootstrap/js/bootstrap.js"></script>
 	<script src="bootstrap/js/bootstrap-transition.js"></script>
@@ -189,6 +176,6 @@ et savoir-faire acquis au cours des deux années d'étude au département SRC, d
 	<script src="bootstrap/js/bootstrap-typeahead.js"></script>
 	
 	 <script src="bootstrap/js/application.js"></script>
-
+-->
 </body>
 </html>
