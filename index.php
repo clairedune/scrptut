@@ -58,11 +58,87 @@ body {
 
 <div class="container">
 <div class="jumbotron subhead" id="overview">
-		<h1>Projets tuteurés SRC </h1>
-		<p>
-		   Ce site est fermé pour l'instant. Merci de vous référer à vos cours de gestion de projet.
+		<h1>Projets tuteurés MMi </h1>
+		<p class="lead">
+		   Liste des projets tuteurés du département MMi de Saint Raphaël pour l'année 2014-2015	
 		</p>
 		<hr class="soften">
+</div>
+<div>
+
+<table class="table table-striped table-condensed ">
+      <thead>
+	<tr>
+	  <th scope="col"> Projet</th>
+	  <th scope="col"> Tuteur</th>
+	  <th scope="col"> Agence</th>
+	</tr>
+      </thead>
+      <tbody>
+	<tr>
+	  <td>Projet 1</td>
+	  <td>Tuteur1</td>
+	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
+	</tr>
+	<tr>
+	  <td>Projet 2</td>
+	  <td>Tuteur2</td>
+	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
+	</tr>
+	<tr>
+	  <td>Projet 3</td>
+	  <td>Tuteur3</td>
+	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
+	</tr>
+	<tr>
+	  <td>Projet 4</td>
+	  <td>Tuteur4</td>
+	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
+	</tr>
+	<tr>
+	  <td>Projet 5</td>
+	  <td>Tuteur5</td>
+	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
+	</tr>
+	<tr>
+	  <td>Projet 6</td>
+	  <td>Tuteur6</td>
+	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
+	</tr>
+	<tr>
+	  <td>Projet 7</td>
+	  <td>Tuteur7</td>
+	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
+	</tr>
+	<tr>
+	  <td>Projet 8</td>
+	  <td>Tuteur 8</td>
+	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
+	</tr>
+	<tr>
+	  <td>Projet 9</td>
+	  <td>Tuteur 9</td>
+	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
+	</tr>
+	<tr>
+	  <td>Projet 10</td>
+	  <td>Tuteur 10</td>
+	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
+	</tr>
+	<tr>
+	  <td>Projet 11</td>
+	  <td>Tuteur 11</td>
+	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
+	</tr>
+		<tr>
+	  <td>Projet 12</td>
+	  <td>Tuteur 12</td>
+	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
+	</tr>
+	 </tbody>
+      <tfoot>
+      </tfoot>
+    </table>
 </div>
 
 <!--
