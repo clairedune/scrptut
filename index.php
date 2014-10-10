@@ -68,79 +68,79 @@ body {
 
 <table class="table table-striped table-condensed ">
       <thead>
-	<tr>
-	  <th scope="col"> Projet</th>
-	  <th scope="col"> Tuteur</th>
-	  <th scope="col"> Agence</th>
-	</tr>
+ <tr>
+   <th scope="col"> Projet</th>
+   <th scope="col"> Tuteur</th>
+   <th scope="col"> Agence</th>
+ </tr>
       </thead>
       <tbody>
-	<tr>
-	  <td>Projet 1</td>
-	  <td>Tuteur1</td>
-	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
-	</tr>
-	<tr>
-	  <td>Projet 2</td>
-	  <td>Tuteur2</td>
-	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
-	</tr>
-	<tr>
-	  <td>Projet 3</td>
-	  <td>Tuteur3</td>
-	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
-	</tr>
-	<tr>
-	  <td>Projet 4</td>
-	  <td>Tuteur4</td>
-	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
-	</tr>
-	<tr>
-	  <td>Projet 5</td>
-	  <td>Tuteur5</td>
-	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
-	</tr>
-	<tr>
-	  <td>Projet 6</td>
-	  <td>Tuteur6</td>
-	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
-	</tr>
-	<tr>
-	  <td>Projet 7</td>
-	  <td>Tuteur7</td>
-	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
-	</tr>
-	<tr>
-	  <td>Projet 8</td>
-	  <td>Tuteur 8</td>
-	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
-	</tr>
-	<tr>
-	  <td>Projet 9</td>
-	  <td>Tuteur 9</td>
-	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
-	</tr>
-	<tr>
-	  <td>Projet 10</td>
-	  <td>Tuteur 10</td>
-	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
-	</tr>
-	<tr>
-	  <td>Projet 11</td>
-	  <td>Tuteur 11</td>
-	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
-	</tr>
-		<tr>
-	  <td>Projet 12</td>
-	  <td>Tuteur 12</td>
-	  <td>Etudiant 1, Etudiant 2, Etudiant 3, Etudiant 4, Etudiant 5, Etudiant 6</td>
-	</tr>
-	 </tbody>
+ <tr>
+   <td>Interlude, le web magazine</td>
+   <td>Karim Adouane</td>
+   <td>Collet Sylvain, Dourdoigne léna, Fleig Sébastien, Pauly Fanny</td>
+ </tr>
+ <tr>
+   <td> Festival du court-métrage étudiant by Elegant Elephant</td>
+   <td>Karim Adouane</td>
+   <td>Allémoz Charles, Fiandino Morgan, Lours Thomas, Maindon Julien,Water Benny </td>
+ </tr>
+ <tr>
+   <td>Nouvelle ère, la gazette de MMI</td>
+   <td>Xavier Betourné</td>
+   <td>Caron Juliette, Donadei Adeline, Duong Dévy, Gide Marion, Sinacori Carla, Volkov Ivan</td>
+ </tr>
+ <tr>
+   <td>Projet4 by KBL Studio</td>
+   <td>Tuteur4</td>
+   <td>Degea Nicolas, Luppo Thomas, Schmidt jérémy, Tostivint Kevin, Vettese thomas</td>
+ </tr>
+ <tr>
+   <td>WebRadio Recall by Echotune</td>
+   <td>Nicolas Iscariot</td>
+   <td>Boucher Julien, Dubroc Adrien, Gammella Aurélie, Pieux Marine, Titeux benjamin</td>
+ </tr>
+ <tr>
+   <td>Le jeu Xpansion by Pressplay</td>
+   <td>Tuteur6</td>
+   <td>Legrand Michael, Peugeot maxime, Paroli Flavio, Tallarita Lucas</td>
+ </tr>
+ <tr>
+   <td>Le jeu Champion of MMI by Virtua Media</td>
+   <td>Claire Dune</td>
+   <td>Armando Frédérick, Fremy Damien, Garcia-Timeus Emilie, legato alessandro, Nikolovski Jordan</td>
+ </tr>
+ <tr>
+   <td>Le jeu Nocturnal by Gears Of Games</td>
+   <td>Hachem Lamti</td>
+   <td>Binetti Aurelia, Delacretaz ophelie, Duyck Antoine, Godin Guillaume, Zunino Jérémy</td>
+ </tr>
+ <tr>
+   <td>Zoom sur les entreprises de la région by Image-In</td>
+   <td>Tuteur 9</td>
+   <td>Akrich Antoine, Duhayon Thomas, Gervais Mickaël, Klein Emmanuelle, Thiebault Soline</td>
+ </tr>
+ <tr>
+   <td>Le site "Métiers" de MMI by Mediareport</td>
+   <td>Florent Bailleul</td>
+   <td>Jacquin Morgane, mazingue maud, Hautcoeur Quentin, Zunino Bastien</td>
+ </tr>
+ <tr>
+   <td>Mise en oeuvre d'un plan de communication pour une autoentreprise by New fox</td>
+   <td>Tuteur 11</td>
+   <td>Collomp Tosello Alexandre, Duchesne Josselin, Fradinho Jordan, Seno Juliette</td>
+ </tr>
+ <tr>
+   <td>No Comment, la Web série by La petite Pellicule</td>
+   <td>Tuteur 12</td>
+   <td>Bergaire-Milliard Nicolas, Lejeune Rémy, Viboud marjorie, Vieil Marion</td>
+
+  </tr>
+  </tbody>
       <tfoot>
       </tfoot>
     </table>
 </div>
-
 <!--
 <div class="span4">
 <img src="images/organisation.png"\>
