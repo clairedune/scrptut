@@ -14,14 +14,18 @@
 <!-- Le styles -->
 <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
 <link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+<link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
 <link href="bootstrap/js/prettify.css" rel="stylesheet">
 <link href="bootstrap/css/docs.css" rel="stylesheet">
 <style>
 body {
 	padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
 }
+.chef{
+    color : #FF8C00;
+    }
 </style>
-<link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+
 
 <!-- Le fav and touch icons 
 <link rel="shortcut icon" href="images/favicon.ico">
@@ -66,7 +70,7 @@ body {
 </div>
 <div>
 
-<table class="table table-striped table-condensed ">
+<table class="table table-striped table-condensed">
       <thead>
  <tr>
    <th scope="col"> Projet</th>
@@ -76,64 +80,64 @@ body {
       </thead>
       <tbody>
  <tr>
-   <td>Interlude, le web magazine</td>
+   <td><a href="http://projet.interlude-lemag.com">Interlude, le web magazine</a></td>
    <td>Karim Adouane</td>
-   <td>Collet Sylvain, Dourdoigne léna, Fleig Sébastien, Pauly Fanny</td>
+   <td>Collet Sylvain, Dourdoigne léna, <span class="chef">Fleig Sébastien</span>, Pauly Fanny</td>
  </tr>
  <tr>
-   <td> Festival du court-métrage étudiant by Elegant Elephant</td>
+   <td><a href="www.elegantelephant.org">Festival du court-métrage étudiant by Elegant Elephant</a></td>
    <td>Karim Adouane</td>
-   <td>Allémoz Charles, Fiandino Morgan, Lours Thomas, Maindon Julien,Water Benny </td>
+   <td>Allémoz Charles, Fiandino Morgan, Lours Thomas, Maindon Julien,<span class="chef"> Water Benny</span> </td>
  </tr>
  <tr>
-   <td>Nouvelle ère, la gazette de MMI</td>
+   <td><a href="http://nouvelleere.mmi.free.fr">Nouvelle ère, la gazette de MMI</a></td>
    <td>Xavier Betourné</td>
-   <td>Caron Juliette, Donadei Adeline, Duong Dévy, Gide Marion, Sinacori Carla, Volkov Ivan</td>
+   <td>Caron Juliette, Donadei Adeline, Duong Dévy, <span class="chef">Gide Marion</span>, Sinacori Carla, Volkov Ivan</td>
  </tr>
  <tr>
-   <td>Projet4 by KBL Studio</td>
-   <td>Tuteur4</td>
-   <td>Degea Nicolas, Luppo Thomas, Schmidt jérémy, Tostivint Kevin, Vettese thomas</td>
+   <td><a href="http://vitrine.kblstudio.fr">KBL Studio</a></td>
+   <td>Jean René Tozza</td>
+   <td>Degea Nicolas, Luppo Thomas, Schmidt jérémy, <span class="chef">Tostivint Kevin</span>, Vettese thomas</td>
  </tr>
  <tr>
-   <td>WebRadio Recall by Echotune</td>
+   <td><a href="www.echotune.fr">WebRadio Recall by Echotune</a></td>
    <td>Nicolas Iscariot</td>
-   <td>Boucher Julien, Dubroc Adrien, Gammella Aurélie, Pieux Marine, Titeux benjamin</td>
+   <td>Boucher Julien, Dubroc Adrien, Gammella Aurélie, Pieux Marine, <span class="chef">Titeux Benjamin</span></td>
  </tr>
  <tr>
-   <td>Le jeu Xpansion by Pressplay</td>
-   <td>Tuteur6</td>
-   <td>Legrand Michael, Peugeot maxime, Paroli Flavio, Tallarita Lucas</td>
+   <td><a href="http://xpansiongame.com/PressPlay/">Le jeu Xpansion by Pressplay</a></td>
+   <td>Jean René Tozza</td>
+   <td><span class="chef">Legrand Michael</span>, Peugeot maxime, Paroli Flavio, Tallarita Lucas</td>
  </tr>
  <tr>
-   <td>Le jeu Champion of MMI by Virtua Media</td>
+   <td><a href="http://www.virtua-media.fr/">Le jeu Champion of MMI by Virtua Media</a></td>
    <td>Claire Dune</td>
-   <td>Armando Frédérick, Fremy Damien, Garcia-Timeus Emilie, legato alessandro, Nikolovski Jordan</td>
+   <td>Armando Frédérick, Fremy Damien, Garcia-Timeus Emilie, <span class="chef">Legato Alessandro</span>, Nikolovski Jordan</td>
  </tr>
  <tr>
-   <td>Le jeu Nocturnal by Gears Of Games</td>
+   <td><a href="http://gearsofgames.fr">Le jeu Nocturnal by Gears Of Games</a></td>
    <td>Hachem Lamti</td>
-   <td>Binetti Aurelia, Delacretaz ophelie, Duyck Antoine, Godin Guillaume, Zunino Jérémy</td>
+   <td>Binetti Aurelia, Delacretaz ophelie, Duyck Antoine, Godin Guillaume, <span class="chef">Zunino Jérémy</span></td>
  </tr>
  <tr>
-   <td>Zoom sur les entreprises de la région by Image-In</td>
-   <td>Tuteur 9</td>
-   <td>Akrich Antoine, Duhayon Thomas, Gervais Mickaël, Klein Emmanuelle, Thiebault Soline</td>
+   <td><a href="http://imageinvitrine.olympe.in/?page_id=20">Zoom sur les entreprises de la région by Image-In</a></td>
+   <td>Nathalie Pessel</td>
+   <td>Akrich Antoine, Duhayon Thomas, <span class="chef">Gervais Mickaël</span>, Klein Emmanuelle, Thiebault Soline</td>
  </tr>
  <tr>
-   <td>Le site "Métiers" de MMI by Mediareport</td>
+   <td><a href="http://agencemediareport.url.ph">Le site "Métiers" de MMI by Mediareport</a></td>
    <td>Florent Bailleul</td>
-   <td>Jacquin Morgane, mazingue maud, Hautcoeur Quentin, Zunino Bastien</td>
+   <td>Jacquin Morgane, <span class="chef">Mazingue Maud</span>, Hautcoeur Quentin, Zunino Bastien</td>
  </tr>
  <tr>
-   <td>Mise en oeuvre d'un plan de communication pour une autoentreprise by New fox</td>
-   <td>Tuteur 11</td>
-   <td>Collomp Tosello Alexandre, Duchesne Josselin, Fradinho Jordan, Seno Juliette</td>
+   <td><a href="https://agencenewfox.wordpress.com/">Mise en oeuvre d'un plan de communication pour une autoentreprise by New fox</a></td>
+   <td>Christophe Lachaume</td>
+   <td>Collomp Tosello Alexandre, Duchesne Josselin, Fradinho Jordan, <span class="chef">Seno Juliette</span></td>
  </tr>
  <tr>
-   <td>No Comment, la Web série by La petite Pellicule</td>
-   <td>Tuteur 12</td>
-   <td>Bergaire-Milliard Nicolas, Lejeune Rémy, Viboud marjorie, Vieil Marion</td>
+   <td><a href="http://lapetitepellicule.esy.es">No Comment, la Web série by La petite Pellicule</a></td>
+   <td>Nathalie Pessel</td>
+   <td>Bergaire-Milliard Nicolas, Lejeune Rémy, Viboud marjorie, <span class="chef">Vieil Marion<span></td>
 
   </tr>
   </tbody>
@@ -141,95 +145,119 @@ body {
       </tfoot>
     </table>
 </div>
-<!--
-<div class="span4">
-<img src="images/organisation.png"\>
-</div>
 
-<div class="span4" style="text-align:justify;">
-<H3>
-Principe
-</H3>
-<br>
-<p>
-Les projets tuteurés sont des projets annuels <b>en groupe</b> de 4 à 6 étudiants encadrés par des <b>enseignants tuteurs</b> et répondant au besoin d'un <b>client</b> fictif ou réél. 
-Ils doivent permettre l'apprentissage et la mise en pratique de la méthodologie de conduite de projet et des savoirs 
-et savoir-faire acquis au cours des deux années d'étude au département SRC, dans <b>toutes les disciplines</b>, pour réaliser un <b>produit ou un service multimédia</b>.
-</p>
-</div>
-
-
-<div class="span3">
-<div class="alert-info">
-	<H3>
-	  Dates clés
-	</H3>
-
-	<div>
-		<table class="table table-striped table-condensed " style ="font-size:11px;">
-		<thead>
-			<tr>
-				<th scope="col"> </th>
-				<th scope="col"> <a href="documents.php">SRC2</a></th>
-			</tr>
-		</thead>
-       		<?php include('contenu/datesSRC2.php');?>
-		</table>
-	</div>
-</div>
-</div>
-</div> 
-
-<div style="clear:both;">
+<div>
 <hr class="soften">
 
-<div class="span3 offset1">
-			    <div class="well">
-  					<h2><a href="informations.php">Informations</a></h2>
-  					<br>
-  					<div style="height:80px;">
-  						Perdus dans les projets tuteurés ? 
-  						Vous trouverez ici des points de repères sur 								
-  						l'organisation des projets tuteurés à SRC. 
-  					</div>
-  					
-				</div>
-			    </div>
-			    
-			    <div class="span3">
-			    <div class="well">
-  					<h2><a href="documents.php">Livrables</a></h2>
-  					<br>
-  					<div style="height:80px;">
-  						Vous trouverez ici, tous les documents nécessaires aux projets tuteurés et la 
-  						description détaillée des livrables et des jalons. 
-  					</div>
-  					
-				</div>
-			    </div>
-			    
-			    
-			    <div class="span3">
-			    <div class="well">
-  					<h2><a href="http://serecom.univ-tln.fr/mozaik">Mozaik</a></h2>
-  					<br>
-  					<div style="height:80px;">
-  					Retrouvez toute l'actualité des projets tuteurés SRC et les projets des années passées sur la plateforme Mozaik.</div>
-  					
-				</div>
-			    </div>
-			    
-			    
-			    
-	</div>
- 
-</div> 
-      <div style="clear:both;">
-      <footer class="footer">
-        <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>CSS designed and built with Twitter bootsrap <a href="http://twitter.github.com/bootstrap/" target="_blank">@bootstrap</a>
-        <p>Icons from <a href="http://glyphicons.com">Glyphicons Free</a>, licensed under <a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.</p>
-      </footer>
+<H2>Rappels sur les attendus du site vitrine de l'agence au 05/10/2014 </H2> 
+<ol>
+    <li>bien distinguer les documents "agence" (OBS, Valeurs et présentation de l'agence, plan de communication interne, charte graphique) des documents "projet" (description du projet, journaux hebdomadaires, compte-rendus de réunions et charte graphique si différente de celle de l'agence)</li>
+    <li>la liste des documents cités dans le premier point doivent être présents et faire partie intégrante du site (ce qui excluent les pdf et les visionneuses d'images sauf éventuellement pour la ou les chartes graphiques)</li>
+    <li>Un formulaire de contact ergonomique et simple d'emploi doit être présent.</li>
+    <li> Un flux RSS ou une notification automatique d'ajout de documents doit être présent.</li>
+    <li> On doit pouvoir mettre des commentaires sous les différentes rubriques et/ou documents.</li>
+</ol>
+
+
+<H2>Préparer la suite</H2>
+<ol>
+    <li>Penser à mettre un lien vers votre site projet.</li>
+    <li>Penser à la gestion documentaire (versions, diffusion et validation) pour les documents importants tels que le cahier des charges fonctionnel, le cahier de conception et le rapport de projet.</li>
+    <li>Penser à l'intégration sur le site vitrine des futurs documents (cahier des charges fonctionnel, planning initial, état d'avancement tâches par tâches, tableaux de bord, tableau de gestion des risques, cahier de conception et rapport de projet).</li>
+</ol> 
+</div>
+<div>
+<hr>
+
+<H2>Les dates importantes</H2>
+
+<table class="table table-striped table-condensed">
+      <thead>
+ <tr>
+   <th scope="col"> Semaines</th>
+   <th scope="col"> Livrables</th>
+ </tr>
+      </thead>
+      <tbody>
+        <tr>
+            <td>
+                Semaine 36 à 39
+            </td>
+            <td>
+                Constitution des équipes et validation des sujets.
+            </td>
+        </tr>    
+        <tr>
+            <td>
+                Semaine 42 (au plus tard le 17 octobre avant 12h)
+            </td>
+            <td>
+                Remise du cahier des charges sur le site avec notification au responsable des projets tutorés
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Semaine 48 (au plus tard le 5 décembre avant 12h)
+            </td>  
+            <td>
+                Remise du cahier de conception et du diagramme de Gantt (version interactive) sur le site avec notification au responsable des projets tutorés.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Semaine 2 (jeudi 8 janvier) 
+            </td>
+            <td>
+                Soutenances des projets à mi-parcours.
+            </td>
+        </tr>
+        <tr>
+            <td>  
+                Semaine 12
+            </td>
+            <td>
+                Recette du projet avec le tuteur ; Remise du « rapport d’installation, d’utilisation et de maintenance », et du dossier de test (fiches de tests et résultats).
+            </td>
+         </tr>
+        <tr>
+            <td>       
+                Semaine 13 (au plus tard le 26 mars avant 12 h)  
+            </td>
+            <td>    
+                Remise du rapport de projet sur le site avec notification au tuteur avec possibilité pour ce dernier d'en télécharger une version pdf.
+            </td>
+        </tr>
+        <tr>   
+            <td> 
+                Semaine 14 (jeudi 2 avril) 
+            </td>
+            <td>
+                Soutenances des projets.
+            </td>
+       </tr>
+       </tbody>
+       <tfoot>
+      </tfoot>
+    </table>         
+</div>
+
+<div>
+
+<hr>
+
+<H2>Cahier des charges fonctionnel</H2>
+<p>Le cahier des charges fonctionnel présente un certain nombre d'éléments dont la liste n'est pas exhaustive. Cependant, j'ai mis sur le Gware des exemples qui devraient vous permettre de mieux cerner les attentes. Néanmoins de manière générale, on doit trouver </p>
+
+<ul>
+    <li>un descriptif de l'agence et de ses valeurs</li> 
+    <li> une présentation de l'équipe devant accomplir le projet avec les coordonnées du chef de projet qui sera l'interlocuteur privilégié du commanditaire</li> 
+    <li> le motif déclencheur de la demande</li> 
+    <li> une étude de l'existant</li> 
+    <li> les fonctions attendues (à décliner suivant le type de projet)</li> 
+    <li> les contraintes liées au projet</li> 
+    <li> un budget éventuel</li> 
+    <li> un échéancier précisant les "rendez-vous" : remise de documents particuliers, démonstration, etc...  </li>   
+</ul>
 </div>
 
 
@@ -252,6 +280,6 @@ et savoir-faire acquis au cours des deux années d'étude au département SRC, d
 	<script src="bootstrap/js/bootstrap-typeahead.js"></script>
 	
 	 <script src="bootstrap/js/application.js"></script>
--->
+
 </body>
 </html>
